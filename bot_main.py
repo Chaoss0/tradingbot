@@ -188,13 +188,13 @@ def _diagnose_report(pf: PriceFeed) -> str:
     berlin = _now_berlin()
     utcnow = datetime.utcnow()
     next_diag = datetime.fromtimestamp(_next_daily_ts_berlin(), tz=TZ_EU_BERLIN) if TZ_EU_BERLIN else None
-    lines.append("🧪 <b>Voll‑Diagnose</b>")
+    lines.append("🧪 <b>Voll-Diagnose</b>")
     lines.append(f"⏱️ Berlin: {_esc(berlin.strftime('%Y-%m-%d %H:%M:%S %Z'))}")
     lines.append(f"🌐 UTC: {_esc(utcnow.strftime('%Y-%m-%d %H:%M:%S'))} UTC")
     if next_diag:
         lines.append(f"🗓️ Nächste Tagesdiagnose: {_esc(next_diag.strftime('%Y-%m-%d %H:%M:%S %Z'))}")
 
-    # Binance/CCXT + TA Mini‑Überblick + Stale/Latency
+    # Binance/CCXT + TA Mini-Überblick + Stale/Latency
     try:
         try:
             import ccxt
@@ -235,7 +235,7 @@ def _diagnose_report(pf: PriceFeed) -> str:
         if stale_flags:
             lines.append("• Stale-Daten: " + _esc(", ".join(stale_flags)))
     except Exception as e:
-        lines.append(f"• Binance/TA‑Check: ❌ Fehler ({_esc(str(e))})")
+        lines.append(f"• Binance/TA-Check: ❌ Fehler ({_esc(str(e))})")
 
     # News / RSS – letzte 6h
     try:
@@ -253,7 +253,7 @@ def _diagnose_report(pf: PriceFeed) -> str:
     except Exception as e:
         lines.append(f"• RSS: ❌ Fehler ({_esc(str(e))})")
 
-    # Funding & Orderbook (sofortiger Abruf)
+    # Funding & Orderbook
     try:
         if USE_FUNDING:
             fr = get_funding_rates(ASSETS)
@@ -267,12 +267,12 @@ def _diagnose_report(pf: PriceFeed) -> str:
     except Exception as e:
         lines.append(f"• Orderbook: ❌ Fehler ({_esc(str(e))})")
 
-    # Higher‑TF Trend
+    # Higher-TF Trend
     try:
         ht = get_higher_trends(pf)
-        lines.append("• Higher‑TF Trend: " + _esc(", ".join([f"{k}:{v}" for k,v in ht.items()])))
+        lines.append("• Higher-TF Trend: " + _esc(", ".join([f"{k}:{v}" for k,v in ht.items()])))
     except Exception as e:
-        lines.append(f"• Higher‑TF: ❌ Fehler ({_esc(str(e))})")
+        lines.append(f"• Higher-TF: ❌ Fehler ({_esc(str(e))})")
 
     # Telegram
     try:
@@ -308,7 +308,7 @@ def _diagnose_report(pf: PriceFeed) -> str:
     except Exception as e:
         lines.append(f"• Logging: ❌ Fehler ({_esc(str(e))})")
 
-    # Umgebung & Risikoparameter
+    # Umgebung & Risk
     try:
         py_ver = f"{os.sys.version_info.major}.{os.sys.version_info.minor}.{os.sys.version_info.micro}"
         sysline = f"{platform.system()} {platform.release()} | Python {py_ver}"
@@ -441,6 +441,18 @@ def main():
     from execution.trade_manager import TradeManager
     tm = TradeManager()
 
+    # --- globaler Cooldown für alle Nicht-Alert-Nachrichten ---
+    NON_ALERT_COOLDOWN_SEC = getattr(CFG, "NON_ALERT_COOLDOWN_SEC", 3600)
+    last_non_alert_sent = 0.0
+
+    def maybe_send_non_alert(html_text: str) -> None:
+        nonlocal last_non_alert_sent
+        now_ts = time.time()
+        if (now_ts - last_non_alert_sent) >= NON_ALERT_COOLDOWN_SEC:
+            if send_telegram(html_text):
+                last_non_alert_sent = now_ts
+        # sonst: innerhalb des Cooldowns -> stumm
+
     # Warmstart-Lookback: 24h
     last_news_ts = time.time() - 3600 * 24
     last_news_pull = 0
@@ -488,7 +500,7 @@ def main():
         try:
             loop_i += 1
 
-            # --- Telegram Commands ---
+            # --- Telegram Commands (immer sofort antworten, NICHT gedrosselt) ---
             updates, tg_last_update_id = telegram_get_updates(
                 offset=(tg_last_update_id + 1) if isinstance(tg_last_update_id, int) else None,
                 timeout=0
@@ -510,10 +522,10 @@ def main():
                             latest_prices[sym] = safe_midprice(df)
                         ta_signals = detect_ta_signal(pf.data)
                         reply = _build_status_message(latest_prices, news_state, ta_signals, tm)
-                        send_telegram(reply)
+                        send_telegram(reply)  # commands: keine Drossel
                     elif cmd in ("/diagnose", "/diag", "diagnose"):
                         report = _diagnose_report(pf)
-                        send_telegram(report)
+                        send_telegram(report)  # commands: keine Drossel
                     elif cmd in ("/pause",):
                         tm.paused = True
                         send_telegram("⏸️ Bot pausiert – es werden keine neuen Alerts erzeugt.")
@@ -521,9 +533,8 @@ def main():
                         tm.paused = False
                         send_telegram("▶️ Bot wieder aktiv.")
 
-            # --- Täglicher LLM‑Kurzbericht + Diagnose ---
+            # --- Täglicher LLM-Kurzbericht + Diagnose (nur 1×/Tag, Drossel irrelevant) ---
             if time.time() >= next_daily_diag_ts:
-                # LLM‑Tageskommentar (optional)
                 if USE_DAILY_LLM_REPORT:
                     try:
                         rep = daily_market_report(recent_news_buffer, news_state, {})
@@ -531,7 +542,6 @@ def main():
                             send_telegram("📝 <b>Daily Market Brief</b>\n" + _esc(rep))
                     except Exception:
                         pass
-                # Ausführliche Diagnose
                 run_full_diagnose_and_notify(pf, tag="daily")
                 next_daily_diag_ts = _next_daily_ts_berlin()
 
@@ -589,13 +599,17 @@ def main():
             # Debug
             debug_report(loop_i, news_state, ta_signals, latest_prices, decision)
 
-            # --- Beobachtungs-Notizen ---
+            # --- Beobachtungen (Nicht-Alerts → global gedrosselt) ---
             obs = find_observations(news_state, ta_signals)
             if obs:
+                # Bettele mehrere Beobachtungen zu einer Nachricht zusammen, um nicht zu spammen
+                bundle = []
                 for sym, txt in obs.items():
-                    send_telegram(_esc(txt))
+                    bundle.append(f"• {_esc(sym)}: {_esc(txt)}")
+                if bundle:
+                    maybe_send_non_alert("👀 <b>Observation</b>\n" + "\n".join(bundle))
 
-            # --- Alert + LLM‑Verdict ---
+            # --- Alert + LLM-Verdict (Alerts gehen immer sofort raus) ---
             if decision:
                 verdict = llm_verdict_alert(
                     symbol=decision.symbol,
@@ -624,7 +638,7 @@ def main():
             # --- Exits prüfen ---
             tm.check_open_trades(latest_prices)
 
-            # --- Stundensnapshot (optional) ---
+            # --- Stundensnapshot (optional, bleibt im Log; kein Telegram-Spam) ---
             if ENABLE_HOURLY_SNAPSHOT and (time.time() - last_snapshot_ts >= SNAPSHOT_INTERVAL_MIN * 60):
                 asset_snapshot(pf, reason=f"every {SNAPSHOT_INTERVAL_MIN} min")
                 last_snapshot_ts = time.time()
