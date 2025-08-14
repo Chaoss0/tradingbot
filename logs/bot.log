@@ -1,0 +1,1995 @@
+2025-08-11 00:39:16 INFO === Systemdiagnose ===
+2025-08-11 00:39:18 INFO Binance API: OK
+2025-08-11 00:39:18 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 00:39:18 INFO Technische Analyse: OK
+2025-08-11 00:39:18 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 00:39:18 INFO ======================
+2025-08-11 00:39:18 INFO Alles bereit. Warte auf Signale...
+2025-08-11 00:39:18 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 00:39:19 INFO BTC/USDT [1m] Close 118,920.00 | RSI 54.2 | MACD_H -7.0136 | VWAP 118,493.46 | AboveVWAP Y | above BB-Mid
+2025-08-11 00:39:19 INFO ETH/USDT [1m] Close 4,229.14 | RSI 56.4 | MACD_H -0.1144 | VWAP 4,223.07 | AboveVWAP Y | above BB-Mid
+2025-08-11 00:39:19 INFO --------------------------------------------------------
+2025-08-11 00:39:19 INFO [INIT] Keine Headlines im Lookback-Fenster – Sentiment vorerst Neutral.
+2025-08-11 00:39:59 INFO Stopping bot...
+2025-08-11 00:45:47 INFO === Systemdiagnose ===
+2025-08-11 00:45:50 INFO Binance API: OK
+2025-08-11 00:45:50 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 00:45:50 INFO Technische Analyse: OK
+2025-08-11 00:45:50 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 00:45:50 INFO ======================
+2025-08-11 00:45:50 INFO Alles bereit. Warte auf Signale...
+2025-08-11 00:45:50 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 00:45:50 INFO BTC/USDT [1m] Close 118,960.76 | RSI 57.9 | MACD_H -5.3530 | VWAP 118,496.90 | AboveVWAP Y | above BB-Mid
+2025-08-11 00:45:51 INFO ETH/USDT [1m] Close 4,234.27 | RSI 60.3 | MACD_H 0.0137 | VWAP 4,223.12 | AboveVWAP Y | above BB-Mid
+2025-08-11 00:45:51 INFO --------------------------------------------------------
+2025-08-11 00:45:51 INFO [INIT] Keine Headlines im 24h-Lookback. Versuche weitere 12h zurück …
+2025-08-11 00:45:51 INFO [INIT] Headlines geladen: 0
+2025-08-11 00:45:51 INFO [INIT] Auch nach Fallback keine Headlines – Sentiment vorerst Neutral.
+2025-08-11 00:45:55 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 00:46:55 INFO --- DEBUG @ 2025-08-10 22:46:55 UTC ---
+2025-08-11 00:46:55 INFO [NEWS] BTC: Neutral | init
+2025-08-11 00:46:55 INFO [NEWS] ETH: Neutral | init
+2025-08-11 00:46:55 INFO [TA]   BTC/USDT: Neutral | px=118,929.40 | No strong confluence
+2025-08-11 00:46:55 INFO [TA]   ETH/USDT: Neutral | px=4,230.82 | No strong confluence
+2025-08-11 00:46:55 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:46:55 INFO --------------------------------
+2025-08-11 00:47:30 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 00:47:57 INFO Stopping bot...
+2025-08-11 00:48:49 INFO === Systemdiagnose ===
+2025-08-11 00:48:51 INFO Binance API: OK
+2025-08-11 00:48:55 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 00:48:55 INFO Technische Analyse: OK
+2025-08-11 00:48:55 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 00:48:55 INFO ======================
+2025-08-11 00:48:55 INFO Alles bereit. Warte auf Signale...
+2025-08-11 00:48:55 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 00:48:55 INFO BTC/USDT [1m] Close 118,929.39 | RSI 52.9 | MACD_H -8.3272 | VWAP 118,499.47 | AboveVWAP Y | below BB-Mid
+2025-08-11 00:48:55 INFO ETH/USDT [1m] Close 4,233.10 | RSI 56.9 | MACD_H -0.3484 | VWAP 4,223.12 | AboveVWAP Y | above BB-Mid
+2025-08-11 00:48:55 INFO --------------------------------------------------------
+2025-08-11 00:48:59 INFO [INIT] Headlines geladen: 83
+2025-08-11 00:48:59 INFO  - Here Are 3 Bullish Reasons Why JPMorgan Sees S&P 500 Rallying Much Higher | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 00:48:59 INFO  - U.S. Spot XRP ETFs: Five Possible Reasons Behind BlackRock’s Hesitation to File for One | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 00:48:59 INFO  - Here’s what happened in crypto today | Cointelegraph.com News
+2025-08-11 00:48:59 INFO  - At least 1 Bitcoiner gets kidnapped every week — Crypto exec | Cointelegraph.com News
+2025-08-11 00:48:59 INFO  - World Mobile launches drone-based, decentralized telecom project | Cointelegraph.com News
+2025-08-11 00:48:59 INFO [INIT] Sentiment: BTC=Negative | ETH=Positive
+2025-08-11 00:49:07 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 00:50:06 INFO --- DEBUG @ 2025-08-10 22:50:06 UTC ---
+2025-08-11 00:50:06 INFO [NEWS] BTC: Negative | El Salvador passes law letting investment banks hold bitcoin, serve qualified clients; Bitcoin Nears $120,000 Again As El Salvador Opens Bitcoin Banks; Anyone else concerned about the "inevitable" btc rally people seem so certain about over the next few months?; Ivy League Universities Betting on Bitcoin As Harvard and Brown Buy $140,000,000 Worth BTC ETF Shares: Bloomberg Analyst; El Salvador legalizes investment banks operating solely in Bitcoin.; Would you use BTC for purchases if you were offered a discount?; Best time to buy Bitcoin is before the next two halvings!
+2025-08-11 00:50:06 INFO [NEWS] ETH: Positive | What Are Big Ethereum (ETH) Investors Up To?; ETH Breaks $4.2K, Whales Remain Bullish and Call 'Higher'; Ethereum is showing on the blockchain that I transferred it into my wallet but I’m not seeing the eth in my wallet. Any idea what to do?
+2025-08-11 00:50:06 INFO [TA]   BTC/USDT: Neutral | px=118,916.68 | No strong confluence
+2025-08-11 00:50:06 INFO [TA]   ETH/USDT: Neutral | px=4,227.14 | No strong confluence
+2025-08-11 00:50:06 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:50:06 INFO --------------------------------
+2025-08-11 00:51:20 INFO --- DEBUG @ 2025-08-10 22:51:20 UTC ---
+2025-08-11 00:51:20 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 00:51:20 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 00:51:20 INFO [TA]   BTC/USDT: Neutral | px=118,938.34 | No strong confluence
+2025-08-11 00:51:20 INFO [TA]   ETH/USDT: Neutral | px=4,231.08 | No strong confluence
+2025-08-11 00:51:20 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:51:20 INFO --------------------------------
+2025-08-11 00:52:23 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 00:52:35 INFO --- DEBUG @ 2025-08-10 22:52:35 UTC ---
+2025-08-11 00:52:35 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 00:52:35 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 00:52:35 INFO [TA]   BTC/USDT: Neutral | px=118,958.87 | No strong confluence
+2025-08-11 00:52:35 INFO [TA]   ETH/USDT: Neutral | px=4,230.29 | RSI falling/overbought, MACD momentum down, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 00:52:35 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:52:35 INFO --------------------------------
+2025-08-11 00:53:19 INFO Stopping bot...
+2025-08-11 00:53:21 INFO === Systemdiagnose ===
+2025-08-11 00:53:24 INFO Binance API: OK
+2025-08-11 00:53:27 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 00:53:27 INFO Technische Analyse: OK
+2025-08-11 00:53:27 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 00:53:27 INFO ======================
+2025-08-11 00:53:27 INFO Alles bereit. Warte auf Signale...
+2025-08-11 00:53:27 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 00:53:27 INFO BTC/USDT [1m] Close 118,962.08 | RSI 57.9 | MACD_H -3.3674 | VWAP 118,508.90 | AboveVWAP Y | above BB-Mid
+2025-08-11 00:53:28 INFO ETH/USDT [1m] Close 4,230.67 | RSI 51.7 | MACD_H -0.6343 | VWAP 4,223.19 | AboveVWAP Y | below BB-Mid
+2025-08-11 00:53:28 INFO --------------------------------------------------------
+2025-08-11 00:53:31 INFO [INIT] Headlines geladen: 83
+2025-08-11 00:53:31 INFO  - Here Are 3 Bullish Reasons Why JPMorgan Sees S&P 500 Rallying Much Higher | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 00:53:31 INFO  - U.S. Spot XRP ETFs: Five Possible Reasons Behind BlackRock’s Hesitation to File for One | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 00:53:31 INFO  - Here’s what happened in crypto today | Cointelegraph.com News
+2025-08-11 00:53:31 INFO  - At least 1 Bitcoiner gets kidnapped every week — Crypto exec | Cointelegraph.com News
+2025-08-11 00:53:31 INFO  - World Mobile launches drone-based, decentralized telecom project | Cointelegraph.com News
+2025-08-11 00:53:31 INFO [INIT] Sentiment: BTC=Negative | ETH=Positive
+2025-08-11 00:53:38 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 00:54:38 INFO --- DEBUG @ 2025-08-10 22:54:38 UTC ---
+2025-08-11 00:54:38 INFO [NEWS] BTC: Negative | Bitcoin (BTC) Jumps to 10-Day High, Chainlink (LINK) Soars 7%: Weekend Watch; El Salvador passes law letting investment banks hold bitcoin, serve qualified clients; Bitcoin Nears $120,000 Again As El Salvador Opens Bitcoin Banks
+2025-08-11 00:54:38 INFO [NEWS] ETH: Positive | What Are Big Ethereum (ETH) Investors Up To?; ETH Breaks $4.2K, Whales Remain Bullish and Call 'Higher'; Ethereum is showing on the blockchain that I transferred it into my wallet but I’m not seeing the eth in my wallet. Any idea what to do?
+2025-08-11 00:54:38 INFO [TA]   BTC/USDT: Bullish | px=118,982.74 | RSI rebound/oversold, Price above VWAP, Above BB mid
+2025-08-11 00:54:38 INFO [TA]   ETH/USDT: Neutral | px=4,232.44 | No strong confluence
+2025-08-11 00:54:38 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:54:38 INFO --------------------------------
+2025-08-11 00:55:54 INFO --- DEBUG @ 2025-08-10 22:55:54 UTC ---
+2025-08-11 00:55:54 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 00:55:54 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 00:55:54 INFO [TA]   BTC/USDT: Neutral | px=118,990.36 | No strong confluence
+2025-08-11 00:55:54 INFO [TA]   ETH/USDT: Neutral | px=4,233.50 | No strong confluence
+2025-08-11 00:55:54 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:55:54 INFO --------------------------------
+2025-08-11 00:57:08 INFO --- DEBUG @ 2025-08-10 22:57:08 UTC ---
+2025-08-11 00:57:08 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 00:57:08 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 00:57:08 INFO [TA]   BTC/USDT: Bullish | px=118,990.36 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 00:57:08 INFO [TA]   ETH/USDT: Neutral | px=4,233.18 | No strong confluence
+2025-08-11 00:57:08 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:57:08 INFO --------------------------------
+2025-08-11 00:58:22 INFO --- DEBUG @ 2025-08-10 22:58:22 UTC ---
+2025-08-11 00:58:22 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 00:58:22 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 00:58:22 INFO [TA]   BTC/USDT: Bullish | px=118,999.96 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 00:58:22 INFO [TA]   ETH/USDT: Bullish | px=4,240.32 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 00:58:22 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:58:22 INFO --------------------------------
+2025-08-11 00:58:37 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 00:59:38 INFO --- DEBUG @ 2025-08-10 22:59:38 UTC ---
+2025-08-11 00:59:38 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 00:59:38 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 00:59:38 INFO [TA]   BTC/USDT: Bullish | px=118,993.64 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 00:59:38 INFO [TA]   ETH/USDT: Bullish | px=4,248.64 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 00:59:38 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 00:59:38 INFO --------------------------------
+2025-08-11 01:00:56 INFO --- DEBUG @ 2025-08-10 23:00:56 UTC ---
+2025-08-11 01:00:56 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 01:00:56 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 01:00:56 INFO [TA]   BTC/USDT: Bullish | px=119,221.25 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 01:00:56 INFO [TA]   ETH/USDT: Bullish | px=4,244.87 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 01:00:56 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 01:00:56 INFO --------------------------------
+2025-08-11 01:01:59 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 01:02:11 INFO --- DEBUG @ 2025-08-10 23:02:11 UTC ---
+2025-08-11 01:02:11 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 01:02:11 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 01:02:11 INFO [TA]   BTC/USDT: Bullish | px=119,192.07 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 01:02:11 INFO [TA]   ETH/USDT: Bullish | px=4,247.57 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 01:02:11 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 01:02:11 INFO --------------------------------
+2025-08-11 01:06:32 INFO Stopping bot...
+2025-08-11 20:35:29 INFO === Systemdiagnose ===
+2025-08-11 20:35:33 INFO Binance API: OK
+2025-08-11 20:35:40 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 20:35:40 INFO Technische Analyse: OK
+2025-08-11 20:35:40 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 20:35:40 INFO ======================
+2025-08-11 20:35:40 INFO Alles bereit. Warte auf Signale...
+2025-08-11 20:35:40 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 20:35:41 INFO BTC/USDT [1m] Close 119,722.32 | RSI 60.1 | MACD_H 7.1163 | VWAP 120,084.16 | AboveVWAP N | above BB-Mid
+2025-08-11 20:35:41 INFO ETH/USDT [1m] Close 4,297.96 | RSI 52.1 | MACD_H -0.2187 | VWAP 4,301.46 | AboveVWAP N | above BB-Mid
+2025-08-11 20:35:41 INFO --------------------------------------------------------
+2025-08-11 20:35:46 INFO [INIT] Headlines geladen: 163
+2025-08-11 20:35:46 INFO  - FG Nexus Buys $200M in Ether in Bid for 10% Network Stake | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 20:35:46 INFO  - Rumble Gains on Plans to Acquire Tether-Affiliated Northern Data | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 20:35:46 INFO  - Filecoin Narrows Loss After 7% Slump | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 20:35:46 INFO  - ICP Retreats From $5.75 High Amid Heavy Distribution | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 20:35:46 INFO  - ATOM Rebounds After Sharp 6% Swing in Volatile Trading Session | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 20:35:46 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-11 20:35:56 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 20:36:58 INFO --- DEBUG @ 2025-08-11 18:36:58 UTC ---
+2025-08-11 20:36:58 INFO [NEWS] BTC: Positive | Ether’s Rally Pulls Bitcoin Along: Crypto Daybook Americas; Calm Before the Storm Expected as Bitcoin Volatility Wakes Up; Watch Out Below: Bitcoin’s Weekend Surge Leaves CME Gap
+2025-08-11 20:36:58 INFO [NEWS] ETH: Positive | FG Nexus Buys $200M in Ether in Bid for 10% Network Stake; Almost 97% of All Ether Holders Are Now in the Green. What Next?; Ethereum options lack euphoria: What&#039;s the biggest risk to $5K ETH price?
+2025-08-11 20:36:58 INFO [TA]   BTC/USDT: Bullish | px=119,800.01 | RSI rebound/oversold, MACD momentum up, Above BB mid
+2025-08-11 20:36:58 INFO [TA]   ETH/USDT: Neutral | px=4,298.25 | No strong confluence
+2025-08-11 20:36:58 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 20:36:58 INFO --------------------------------
+2025-08-11 20:38:18 INFO --- DEBUG @ 2025-08-11 18:38:18 UTC ---
+2025-08-11 20:38:18 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 20:38:18 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 20:38:18 INFO [TA]   BTC/USDT: Bullish | px=119,839.99 | RSI rebound/oversold, MACD momentum up, Above BB mid
+2025-08-11 20:38:18 INFO [TA]   ETH/USDT: Neutral | px=4,301.00 | No strong confluence
+2025-08-11 20:38:18 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 20:38:18 INFO --------------------------------
+2025-08-11 20:39:00 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 20:39:38 INFO --- DEBUG @ 2025-08-11 18:39:38 UTC ---
+2025-08-11 20:39:38 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 20:39:38 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 20:39:38 INFO [TA]   BTC/USDT: Bullish | px=119,859.99 | RSI rebound/oversold, MACD momentum up, Above BB mid
+2025-08-11 20:39:38 INFO [TA]   ETH/USDT: Bullish | px=4,306.24 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid
+2025-08-11 20:39:38 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 20:39:38 INFO --------------------------------
+2025-08-11 20:40:57 INFO --- DEBUG @ 2025-08-11 18:40:57 UTC ---
+2025-08-11 20:40:57 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 20:40:57 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 20:40:57 INFO [TA]   BTC/USDT: Neutral | px=119,836.01 | No strong confluence
+2025-08-11 20:40:57 INFO [TA]   ETH/USDT: Neutral | px=4,301.19 | No strong confluence
+2025-08-11 20:40:57 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 20:40:57 INFO --------------------------------
+2025-08-11 20:41:35 INFO Stopping bot...
+2025-08-11 21:00:41 INFO === Systemdiagnose ===
+2025-08-11 21:00:44 INFO Binance API: OK
+2025-08-11 21:00:50 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 21:00:51 INFO Technische Analyse: OK
+2025-08-11 21:00:51 WARNING Telegram nicht konfiguriert (TOKEN/CHAT_ID fehlen).
+2025-08-11 21:00:51 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 21:00:51 INFO ======================
+2025-08-11 21:00:51 INFO Alles bereit. Warte auf Signale...
+2025-08-11 21:00:51 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 21:00:51 INFO BTC/USDT [1m] Close 119,780.00 | RSI 56.1 | MACD_H 3.0993 | VWAP 120,080.88 | AboveVWAP N | above BB-Mid
+2025-08-11 21:00:51 INFO ETH/USDT [1m] Close 4,296.35 | RSI 50.8 | MACD_H 0.2462 | VWAP 4,310.16 | AboveVWAP N | above BB-Mid
+2025-08-11 21:00:51 INFO --------------------------------------------------------
+2025-08-11 21:02:08 INFO === Systemdiagnose ===
+2025-08-11 21:02:12 INFO Binance API: OK
+2025-08-11 21:02:18 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 21:02:18 INFO Technische Analyse: OK
+2025-08-11 21:02:18 WARNING Telegram nicht konfiguriert (TOKEN/CHAT_ID fehlen).
+2025-08-11 21:02:18 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 21:02:18 INFO ======================
+2025-08-11 21:02:18 INFO Alles bereit. Warte auf Signale...
+2025-08-11 21:02:18 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 21:02:19 INFO BTC/USDT [1m] Close 119,722.31 | RSI 49.8 | MACD_H -2.4603 | VWAP 120,080.35 | AboveVWAP N | above BB-Mid
+2025-08-11 21:02:19 INFO ETH/USDT [1m] Close 4,296.11 | RSI 50.2 | MACD_H 0.1744 | VWAP 4,310.41 | AboveVWAP N | above BB-Mid
+2025-08-11 21:02:19 INFO --------------------------------------------------------
+2025-08-11 21:02:24 INFO [INIT] Headlines geladen: 162
+2025-08-11 21:02:24 INFO  - ETH Transaction Volume Climbs on Price Rally, Cheaper DeFi Costs | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:02:24 INFO  - FG Nexus Buys $200M in Ether in Bid for 10% Network Stake | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:02:24 INFO  - Rumble Gains on Plans to Acquire Tether-Affiliated Northern Data | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:02:24 INFO  - Filecoin Narrows Loss After 7% Slump | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:02:24 INFO  - ICP Retreats From $5.75 High Amid Heavy Distribution | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:02:24 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-11 21:02:43 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:03:44 INFO --- DEBUG @ 2025-08-11 19:03:44 UTC ---
+2025-08-11 21:03:44 INFO [NEWS] BTC: Positive | Bitcoin surge to $122K was ‘just a matter of time,’ Analyst says; Saylor’s Strategy started buying Bitcoin 5 years ago. It&#039;s now up 2,600%; Michael Saylor's Latest Bitcoin Buy Is Strategy's Smallest in Months
+2025-08-11 21:03:44 INFO [NEWS] ETH: Positive | Ethereum options lack euphoria: What&#039;s the biggest risk to $5K ETH price?; Ethereum’s Fusaka upgrade set for November:  What you need to know; ‘Mysterious institution’ buys almost $1B worth of Ether in week
+2025-08-11 21:03:44 INFO [TA]   BTC/USDT: Neutral | px=119,660.01 | RSI falling/overbought, MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:03:44 INFO [TA]   ETH/USDT: Neutral | px=4,292.00 | RSI falling/overbought, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:03:44 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:03:44 INFO --------------------------------
+2025-08-11 21:04:25 INFO Stopping bot...
+2025-08-11 21:18:03 INFO === Systemdiagnose ===
+2025-08-11 21:18:06 INFO Binance API: OK
+2025-08-11 21:18:12 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 21:18:12 INFO Technische Analyse: OK
+2025-08-11 21:18:12 WARNING Telegram nicht konfiguriert (TOKEN/CHAT_ID fehlen).
+2025-08-11 21:18:12 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-11 21:18:12 INFO ======================
+2025-08-11 21:18:12 INFO Alles bereit. Warte auf Signale...
+2025-08-11 21:18:12 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 21:18:12 INFO BTC/USDT [1m] Close 119,581.26 | RSI 42.1 | MACD_H -10.9381 | VWAP 120,073.22 | AboveVWAP N | below BB-Mid
+2025-08-11 21:18:13 INFO ETH/USDT [1m] Close 4,296.84 | RSI 47.6 | MACD_H -0.4741 | VWAP 4,312.93 | AboveVWAP N | below BB-Mid
+2025-08-11 21:18:13 INFO --------------------------------------------------------
+2025-08-11 21:18:18 INFO [INIT] Headlines geladen: 162
+2025-08-11 21:18:18 INFO  - ETH Transaction Volume Climbs on Price Rally, Cheaper DeFi Costs | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:18:18 INFO  - FG Nexus Buys $200M in Ether in Bid for 10% Network Stake | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:18:18 INFO  - Rumble Gains on Plans to Acquire Tether-Affiliated Northern Data | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:18:18 INFO  - Filecoin Narrows Loss After 7% Slump | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:18:18 INFO  - ICP Retreats From $5.75 High Amid Heavy Distribution | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:18:18 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-11 21:18:30 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:19:21 INFO Stopping bot...
+2025-08-11 21:20:30 INFO === Systemdiagnose ===
+2025-08-11 21:20:35 INFO Binance API: OK
+2025-08-11 21:20:42 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 21:20:42 INFO Technische Analyse: OK
+2025-08-11 21:20:42 INFO Telegram: Testnachricht gesendet
+2025-08-11 21:20:42 INFO ======================
+2025-08-11 21:20:42 INFO Alles bereit. Warte auf Signale...
+2025-08-11 21:20:42 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 21:20:42 INFO BTC/USDT [1m] Close 119,559.85 | RSI 40.8 | MACD_H -9.6498 | VWAP 120,072.86 | AboveVWAP N | below BB-Mid
+2025-08-11 21:20:43 INFO ETH/USDT [1m] Close 4,300.52 | RSI 52.7 | MACD_H -0.3593 | VWAP 4,313.08 | AboveVWAP N | above BB-Mid
+2025-08-11 21:20:43 INFO --------------------------------------------------------
+2025-08-11 21:20:48 INFO [INIT] Headlines geladen: 162
+2025-08-11 21:20:48 INFO  - ETH Transaction Volume Climbs on Price Rally, Cheaper DeFi Costs | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:20:48 INFO  - FG Nexus Buys $200M in Ether in Bid for 10% Network Stake | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:20:48 INFO  - Rumble Gains on Plans to Acquire Tether-Affiliated Northern Data | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:20:48 INFO  - Filecoin Narrows Loss After 7% Slump | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:20:48 INFO  - ICP Retreats From $5.75 High Amid Heavy Distribution | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:20:48 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-11 21:21:00 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:22:03 INFO --- DEBUG @ 2025-08-11 19:22:03 UTC ---
+2025-08-11 21:22:03 INFO [NEWS] BTC: Positive | Bitcoin surge to $122K was ‘just a matter of time,’ Analyst says; Michael Saylor's Latest Bitcoin Buy Is Strategy's Smallest in Months; ETH BREAKS THROUGH $4K, BTC NEARS ATH, PUNKS NOW $240K
+2025-08-11 21:22:03 INFO [NEWS] ETH: Positive | Ethereum options lack euphoria: What&#039;s the biggest risk to $5K ETH price?; Ethereum’s Fusaka upgrade set for November:  What you need to know; ‘Mysterious institution’ buys almost $1B worth of Ether in week
+2025-08-11 21:22:03 INFO [TA]   BTC/USDT: Neutral | px=119,568.99 | MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:22:03 INFO [TA]   ETH/USDT: Neutral | px=4,301.45 | No strong confluence
+2025-08-11 21:22:03 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:22:03 INFO --------------------------------
+2025-08-11 21:23:24 INFO --- DEBUG @ 2025-08-11 19:23:24 UTC ---
+2025-08-11 21:23:24 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:23:24 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:23:24 INFO [TA]   BTC/USDT: Neutral | px=119,601.92 | MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:23:24 INFO [TA]   ETH/USDT: Bullish | px=4,305.14 | RSI rebound/oversold, MACD momentum up, Above BB mid
+2025-08-11 21:23:24 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:23:24 INFO --------------------------------
+2025-08-11 21:24:42 INFO --- DEBUG @ 2025-08-11 19:24:42 UTC ---
+2025-08-11 21:24:42 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:24:42 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:24:42 INFO [TA]   BTC/USDT: Neutral | px=119,600.05 | No strong confluence
+2025-08-11 21:24:42 INFO [TA]   ETH/USDT: Bullish | px=4,308.59 | RSI rebound/oversold, MACD momentum up, Above BB mid
+2025-08-11 21:24:42 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:24:42 INFO --------------------------------
+2025-08-11 21:25:46 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:25:58 INFO --- DEBUG @ 2025-08-11 19:25:58 UTC ---
+2025-08-11 21:25:58 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:25:58 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:25:58 INFO [TA]   BTC/USDT: Neutral | px=119,570.70 | No strong confluence
+2025-08-11 21:25:58 INFO [TA]   ETH/USDT: Neutral | px=4,306.85 | No strong confluence
+2025-08-11 21:25:58 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:25:58 INFO --------------------------------
+2025-08-11 21:27:19 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:27:19 INFO --- DEBUG @ 2025-08-11 19:27:19 UTC ---
+2025-08-11 21:27:19 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:27:19 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:27:19 INFO [TA]   BTC/USDT: Neutral | px=119,525.01 | RSI falling/overbought, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:27:19 INFO [TA]   ETH/USDT: Neutral | px=4,304.75 | No strong confluence
+2025-08-11 21:27:19 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:27:19 INFO --------------------------------
+2025-08-11 21:28:33 INFO --- DEBUG @ 2025-08-11 19:28:33 UTC ---
+2025-08-11 21:28:33 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:28:33 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:28:33 INFO [TA]   BTC/USDT: Neutral | px=119,502.17 | RSI falling/overbought, MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:28:33 INFO [TA]   ETH/USDT: Neutral | px=4,304.10 | No strong confluence
+2025-08-11 21:28:33 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:28:33 INFO --------------------------------
+2025-08-11 21:30:01 INFO --- DEBUG @ 2025-08-11 19:30:01 UTC ---
+2025-08-11 21:30:01 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:30:01 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:30:01 INFO [TA]   BTC/USDT: Neutral | px=119,490.03 | RSI falling/overbought, MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:30:01 INFO [TA]   ETH/USDT: Neutral | px=4,302.98 | No strong confluence
+2025-08-11 21:30:01 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:30:01 INFO --------------------------------
+2025-08-11 21:30:37 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:31:26 INFO --- DEBUG @ 2025-08-11 19:31:26 UTC ---
+2025-08-11 21:31:26 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:31:26 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:31:26 INFO [TA]   BTC/USDT: Bearish | px=119,389.33 | RSI falling/overbought, MACD momentum down, Price below VWAP, Below BB mid
+2025-08-11 21:31:26 INFO [TA]   ETH/USDT: Neutral | px=4,298.05 | RSI falling/overbought, MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:31:26 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:31:26 INFO --------------------------------
+2025-08-11 21:32:49 INFO --- DEBUG @ 2025-08-11 19:32:49 UTC ---
+2025-08-11 21:32:49 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:32:49 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:32:49 INFO [TA]   BTC/USDT: Bearish | px=119,322.18 | RSI falling/overbought, MACD momentum down, Price below VWAP, Below BB mid
+2025-08-11 21:32:49 INFO [TA]   ETH/USDT: Neutral | px=4,292.90 | RSI falling/overbought, MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:32:49 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:32:49 INFO --------------------------------
+2025-08-11 21:33:47 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:34:11 INFO Stopping bot...
+2025-08-11 21:34:52 INFO === Systemdiagnose ===
+2025-08-11 21:34:55 INFO Binance API: OK
+2025-08-11 21:35:01 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-11 21:35:01 INFO Technische Analyse: OK
+2025-08-11 21:35:01 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-11 21:35:02 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":7,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"},
+2025-08-11 21:35:02 INFO Telegram: Testnachricht gesendet
+2025-08-11 21:35:02 INFO ======================
+2025-08-11 21:35:02 INFO Alles bereit. Warte auf Signale...
+2025-08-11 21:35:02 INFO --- Markt-Snapshot (startup) ---
+2025-08-11 21:35:02 INFO BTC/USDT [1m] Close 119,306.69 | RSI 24.4 | MACD_H -21.0354 | VWAP 120,049.03 | AboveVWAP N | below BB-Mid
+2025-08-11 21:35:02 INFO ETH/USDT [1m] Close 4,292.51 | RSI 38.1 | MACD_H -1.6164 | VWAP 4,314.25 | AboveVWAP N | below BB-Mid
+2025-08-11 21:35:02 INFO --------------------------------------------------------
+2025-08-11 21:35:08 INFO [INIT] Headlines geladen: 162
+2025-08-11 21:35:08 INFO  - ETH Transaction Volume Climbs on Price Rally, Cheaper DeFi Costs | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:35:08 INFO  - FG Nexus Buys $200M in Ether in Bid for 10% Network Stake | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:35:08 INFO  - Rumble Gains on Plans to Acquire Tether-Affiliated Northern Data | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:35:08 INFO  - Filecoin Narrows Loss After 7% Slump | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:35:08 INFO  - ICP Retreats From $5.75 High Amid Heavy Distribution | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-11 21:35:08 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-11 21:35:20 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:36:23 INFO --- DEBUG @ 2025-08-11 19:36:23 UTC ---
+2025-08-11 21:36:23 INFO [NEWS] BTC: Positive | Bitcoin surge to $122K was ‘just a matter of time,’ Analyst says; Michael Saylor's Latest Bitcoin Buy Is Strategy's Smallest in Months; ETH BREAKS THROUGH $4K, BTC NEARS ATH, PUNKS NOW $240K
+2025-08-11 21:36:23 INFO [NEWS] ETH: Positive | Ethereum options lack euphoria: What&#039;s the biggest risk to $5K ETH price?; Ethereum’s Fusaka upgrade set for November:  What you need to know; ‘Mysterious institution’ buys almost $1B worth of Ether in week
+2025-08-11 21:36:23 INFO [TA]   BTC/USDT: Bearish | px=119,286.00 | MACD momentum down, Price below VWAP, Below BB mid
+2025-08-11 21:36:23 INFO [TA]   ETH/USDT: Neutral | px=4,291.56 | MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:36:23 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:36:23 INFO --------------------------------
+2025-08-11 21:37:46 INFO --- DEBUG @ 2025-08-11 19:37:46 UTC ---
+2025-08-11 21:37:46 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-11 21:37:46 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-11 21:37:46 INFO [TA]   BTC/USDT: Bearish | px=119,261.84 | MACD momentum down, Price below VWAP, Below BB mid
+2025-08-11 21:37:46 INFO [TA]   ETH/USDT: Neutral | px=4,291.17 | MACD momentum down, Price below VWAP, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-11 21:37:46 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-11 21:37:46 INFO --------------------------------
+2025-08-11 21:38:34 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-11 21:38:55 INFO Stopping bot...
+2025-08-12 23:14:51 INFO === Systemdiagnose ===
+2025-08-12 23:14:55 INFO Binance API: OK
+2025-08-12 23:15:11 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-12 23:15:11 INFO Technische Analyse: OK
+2025-08-12 23:15:11 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:15:12 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":10,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-12 23:15:12 INFO Telegram: Testnachricht gesendet
+2025-08-12 23:15:12 INFO ======================
+2025-08-12 23:15:12 INFO Alles bereit. Warte auf Signale...
+2025-08-12 23:15:12 INFO --- Markt-Snapshot (startup) ---
+2025-08-12 23:15:12 INFO BTC/USDT [1m] Close 120,062.45 | RSI 50.9 | MACD_H -0.9204 | VWAP 119,750.37 | AboveVWAP Y | above BB-Mid
+2025-08-12 23:15:12 INFO ETH/USDT [1m] Close 4,604.92 | RSI 48.3 | MACD_H -1.1156 | VWAP 4,532.29 | AboveVWAP Y | below BB-Mid
+2025-08-12 23:15:12 INFO --------------------------------------------------------
+2025-08-12 23:15:34 INFO [INIT] Headlines geladen: 178
+2025-08-12 23:15:34 INFO  - Ether, Cardano, XRP Among Cryptos Taking New Leg Higher as Scott Bessent Floats 50 Basis Point Rate Cut | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:15:34 INFO  - Kazakhstan’s Fonte Capital Introduces Central Asia’s First Spot Bitcoin ETF | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:15:34 INFO  - Circle Dips 6% After Hours on 10M Share Secondary Offering | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:15:34 INFO  - LINK Surges 10% as Chainlink Reserve, ICE Partnership Fuel Explosive Rally | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:15:34 INFO  - Bitcoin Miner MARA Steps Into HPC With Majority Stake in EDF Subsidiary: H.C. Wainwright | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:15:34 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-12 23:15:50 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:16:00 ERROR Telegram Fehler 400: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Unsupported start tag \"0)\" at byte offset 312"}
+2025-08-12 23:16:53 INFO --- DEBUG @ 2025-08-12 21:16:53 UTC ---
+2025-08-12 23:16:53 INFO [NEWS] BTC: Positive | Bitcoin Profit Taking Appears Modest Even Near All-Time High; Bitcoin holds $118K while ETH, BNB, LINK, UNI aim to extend the altcoin rally; Pantera’s bear market Bitcoin call nails 2025 price, silencing cycle skeptics
+2025-08-12 23:16:53 INFO [NEWS] ETH: Positive | Ether Pumps to 5-Year High of $4.47K Alongside Tom Lee's Massive ETH Treasury Bet and Fed Rate Cut Hopes; Tom Lee's BitMine Immersion Aims to Raise as Much as $20B for More ETH Buys; Ether futures open interest hits all-time high as ETH price tops $4.5K — Will it last?
+2025-08-12 23:16:53 INFO [TA]   BTC/USDT: Neutral | px=120,014.19 | No strong confluence
+2025-08-12 23:16:53 INFO [TA]   ETH/USDT: Neutral | px=4,608.13 | No strong confluence
+2025-08-12 23:16:53 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:16:53 INFO --------------------------------
+2025-08-12 23:18:16 INFO --- DEBUG @ 2025-08-12 21:18:16 UTC ---
+2025-08-12 23:18:16 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-12 23:18:16 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-12 23:18:16 INFO [TA]   BTC/USDT: Neutral | px=119,988.01 | No strong confluence
+2025-08-12 23:18:16 INFO [TA]   ETH/USDT: Neutral | px=4,607.71 | No strong confluence
+2025-08-12 23:18:16 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:18:16 INFO --------------------------------
+2025-08-12 23:19:07 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:19:41 INFO Stopping bot...
+2025-08-12 23:23:01 INFO === Systemdiagnose ===
+2025-08-12 23:23:04 INFO Binance API: OK
+2025-08-12 23:23:14 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-12 23:23:14 INFO Technische Analyse: OK
+2025-08-12 23:23:14 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:23:15 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":13,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-12 23:23:15 INFO Telegram: Testnachricht gesendet
+2025-08-12 23:23:15 INFO ======================
+2025-08-12 23:23:15 INFO Alles bereit. Warte auf Signale...
+2025-08-12 23:23:15 INFO --- Markt-Snapshot (startup) ---
+2025-08-12 23:23:15 INFO BTC/USDT [1m] Close 120,114.01 | RSI 55.7 | MACD_H 13.1588 | VWAP 119,754.19 | AboveVWAP Y | above BB-Mid
+2025-08-12 23:23:16 INFO ETH/USDT [1m] Close 4,606.04 | RSI 49.9 | MACD_H -0.8450 | VWAP 4,535.65 | AboveVWAP Y | below BB-Mid
+2025-08-12 23:23:16 INFO --------------------------------------------------------
+2025-08-12 23:23:24 INFO [INIT] Headlines geladen: 185
+2025-08-12 23:23:24 INFO  - Ether, Cardano, XRP Among Cryptos Taking New Leg Higher as Scott Bessent Floats 50 Basis Point Rate Cut | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:23:24 INFO  - Kazakhstan’s Fonte Capital Introduces Central Asia’s First Spot Bitcoin ETF | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:23:24 INFO  - Circle Dips 6% After Hours on 10M Share Secondary Offering | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:23:24 INFO  - LINK Surges 10% as Chainlink Reserve, ICE Partnership Fuel Explosive Rally | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:23:24 INFO  - Bitcoin Miner MARA Steps Into HPC With Majority Stake in EDF Subsidiary: H.C. Wainwright | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:23:24 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-12 23:23:39 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:24:43 INFO --- DEBUG @ 2025-08-12 21:24:43 UTC ---
+2025-08-12 23:24:43 INFO [NEWS] BTC: Positive | Bitcoin Profit Taking Appears Modest Even Near All-Time High; Bitcoin holds $118K while ETH, BNB, LINK, UNI aim to extend the altcoin rally; Pantera’s bear market Bitcoin call nails 2025 price, silencing cycle skeptics
+2025-08-12 23:24:43 INFO [NEWS] ETH: Positive | Ether Pumps to 5-Year High of $4.47K Alongside Tom Lee's Massive ETH Treasury Bet and Fed Rate Cut Hopes; Tom Lee's BitMine Immersion Aims to Raise as Much as $20B for More ETH Buys; Ether futures open interest hits all-time high as ETH price tops $4.5K — Will it last?
+2025-08-12 23:24:43 INFO [TA]   BTC/USDT: Neutral | px=120,090.16 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-12 23:24:43 INFO [TA]   ETH/USDT: Neutral | px=4,603.28 | No strong confluence
+2025-08-12 23:24:43 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:24:43 INFO --------------------------------
+2025-08-12 23:26:09 INFO --- DEBUG @ 2025-08-12 21:26:09 UTC ---
+2025-08-12 23:26:09 INFO [NEWS] BTC: Positive | Defi Season is almost here. $DEFT is in a buy zone
+2025-08-12 23:26:09 INFO [NEWS] ETH: Positive | Defi Season is almost here. $DEFT is in a buy zone
+2025-08-12 23:26:09 INFO [TA]   BTC/USDT: Neutral | px=120,103.10 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-12 23:26:09 INFO [TA]   ETH/USDT: Neutral | px=4,601.20 | No strong confluence
+2025-08-12 23:26:09 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:26:09 INFO --------------------------------
+2025-08-12 23:26:57 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:27:34 INFO --- DEBUG @ 2025-08-12 21:27:34 UTC ---
+2025-08-12 23:27:34 INFO [NEWS] BTC: Positive | Defi Season is almost here. $DEFT is in a buy zone
+2025-08-12 23:27:34 INFO [NEWS] ETH: Positive | Defi Season is almost here. $DEFT is in a buy zone
+2025-08-12 23:27:34 INFO [TA]   BTC/USDT: Neutral | px=120,090.14 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-12 23:27:34 INFO [TA]   ETH/USDT: Neutral | px=4,602.80 | No strong confluence
+2025-08-12 23:27:34 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:27:34 INFO --------------------------------
+2025-08-12 23:29:00 INFO --- DEBUG @ 2025-08-12 21:29:00 UTC ---
+2025-08-12 23:29:00 INFO [NEWS] BTC: Positive | Defi Season is almost here. $DEFT is in a buy zone
+2025-08-12 23:29:00 INFO [NEWS] ETH: Positive | Defi Season is almost here. $DEFT is in a buy zone
+2025-08-12 23:29:00 INFO [TA]   BTC/USDT: Neutral | px=120,095.79 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-12 23:29:00 INFO [TA]   ETH/USDT: Bearish | px=4,600.58 | RSI falling/overbought, MACD momentum down, Below BB mid
+2025-08-12 23:29:00 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:29:00 INFO --------------------------------
+2025-08-12 23:30:37 INFO --- DEBUG @ 2025-08-12 21:30:37 UTC ---
+2025-08-12 23:30:37 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-12 23:30:37 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-12 23:30:37 INFO [TA]   BTC/USDT: Neutral | px=120,095.80 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-12 23:30:37 INFO [TA]   ETH/USDT: Bearish | px=4,596.60 | RSI falling/overbought, MACD momentum down, Below BB mid
+2025-08-12 23:30:37 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:30:37 INFO --------------------------------
+2025-08-12 23:31:50 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:32:03 INFO --- DEBUG @ 2025-08-12 21:32:03 UTC ---
+2025-08-12 23:32:03 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-12 23:32:03 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-12 23:32:03 INFO [TA]   BTC/USDT: Neutral | px=120,000.00 | No strong confluence
+2025-08-12 23:32:03 INFO [TA]   ETH/USDT: Neutral | px=4,584.05 | No strong confluence
+2025-08-12 23:32:03 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:32:03 INFO --------------------------------
+2025-08-12 23:34:01 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140878 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1336d6a50>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+2025-08-12 23:34:11 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:34:21 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140879 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13454fa10>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:41:18 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140880 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13454e050>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:41:18 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:41:28 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140881 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341c6010>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:41:28 INFO --- DEBUG @ 2025-08-12 21:41:28 UTC ---
+2025-08-12 23:41:28 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-12 23:41:28 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-12 23:41:28 INFO [TA]   BTC/USDT: Neutral | px=— | No base TF data
+2025-08-12 23:41:28 INFO [TA]   ETH/USDT: Neutral | px=— | No base TF data
+2025-08-12 23:41:28 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:41:28 INFO --------------------------------
+2025-08-12 23:41:38 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140882 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341cd510>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:41:48 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140883 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134835a90>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:41:58 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140884 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134ca2810>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:42:08 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140885 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134d37410>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:42:18 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140886 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x135682190>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:42:29 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140887 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341be890>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:42:29 INFO --- DEBUG @ 2025-08-12 21:42:29 UTC ---
+2025-08-12 23:42:29 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-12 23:42:29 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-12 23:42:29 INFO [TA]   BTC/USDT: Neutral | px=— | No base TF data
+2025-08-12 23:42:29 INFO [TA]   ETH/USDT: Neutral | px=— | No base TF data
+2025-08-12 23:42:29 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:42:29 INFO --------------------------------
+2025-08-12 23:42:39 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140888 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341cfe50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:42:49 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140889 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134c61790>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:42:49 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:42:59 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140890 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341cd090>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:43:09 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140891 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134634fd0>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:43:19 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140892 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134ca32d0>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:44:57 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140893 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341c1b10>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:44:57 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:44:57 INFO --- DEBUG @ 2025-08-12 21:44:57 UTC ---
+2025-08-12 23:44:57 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-12 23:44:57 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-12 23:44:57 INFO [TA]   BTC/USDT: Neutral | px=— | No base TF data
+2025-08-12 23:44:57 INFO [TA]   ETH/USDT: Neutral | px=— | No base TF data
+2025-08-12 23:44:57 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:44:57 INFO --------------------------------
+2025-08-12 23:45:07 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140894 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341b7990>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:45:17 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140895 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341a9e50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:45:28 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140896 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134371690>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:45:38 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140897 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134d34b50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:45:48 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0&offset=367140898 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1341cfa10>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:45:56 INFO Stopping bot...
+2025-08-12 23:45:59 ERROR Telegram Sende-Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11b04cd50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socket.py", line 961, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x11b04cd50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11b04cd50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/execution/notifier.py", line 44, in _post
+    r = requests.post(url, data=payload, timeout=10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11b04cd50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:00 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11b0e1810>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:11 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11b062290>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:20 INFO Bot gestoppt
+2025-08-12 23:46:22 INFO === Systemdiagnose ===
+2025-08-12 23:46:22 ERROR Binance API: keine Daten erhalten
+2025-08-12 23:46:22 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-12 23:46:22 WARNING Technische Analyse: übersprungen (keine Kursdaten)
+2025-08-12 23:46:22 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:46:22 ERROR [TG-SELFTEST] Ausnahme beim Senden
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socket.py", line 961, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x111b641d0>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b641d0>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/execution/notifier.py", line 153, in telegram_self_test
+    r = requests.post(url, data=payload, timeout=10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b641d0>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:22 WARNING Telegram: nicht konfiguriert oder keine Berechtigung
+2025-08-12 23:46:22 INFO ======================
+2025-08-12 23:46:22 ERROR Es gab Fehler im Systemcheck. Bitte prüfe die Meldungen oben.
+2025-08-12 23:46:23 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:46:23 ERROR [TG-SELFTEST] Ausnahme beim Senden
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socket.py", line 961, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x111b67d90>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b67d90>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/execution/notifier.py", line 153, in telegram_self_test
+    r = requests.post(url, data=payload, timeout=10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b67d90>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:23 INFO 🧪 Voll-Diagnose
+⏱️ 2025-08-12 23:46:22 CEST
+• Binance API: ❌ keine Daten erhalten
+• TA: ❌ übersprungen (keine Kursdaten)
+• RSS Feeds: ⚠️ keine neuen Headlines (6h)
+• Telegram: ⚠️ nicht konfiguriert / keine Berechtigung
+• OpenAI: ⚠️ aktiviert, aber kein API-Key gesetzt
+• Runtime: Python 3.11.0
+2025-08-12 23:46:23 ERROR Telegram Sende-Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b1dc10>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socket.py", line 961, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x111b1dc10>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b1dc10>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/execution/notifier.py", line 44, in _post
+    r = requests.post(url, data=payload, timeout=10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b1dc10>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:23 WARNING Diagnose per Telegram konnte nicht gesendet werden.
+2025-08-12 23:46:23 INFO [INIT] Keine Headlines im 24h-Lookback. Versuche weitere 12h zurück …
+2025-08-12 23:46:23 INFO [INIT] Headlines geladen: 0
+2025-08-12 23:46:23 INFO [INIT] Auch nach Fallback keine Headlines – Sentiment vorerst Neutral.
+2025-08-12 23:46:23 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b1ea50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:24 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:46:34 WARNING [TG] getUpdates Fehler: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8459153464:AAEg9RTw5zS2ngA6NQOUYaKOhYJl--dxmP8/getUpdates?timeout=0 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111b1ef50>: Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-08-12 23:46:44 INFO Stopping bot...
+2025-08-12 23:46:50 INFO === Systemdiagnose ===
+2025-08-12 23:46:53 INFO Binance API: OK
+2025-08-12 23:47:06 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-12 23:47:06 INFO Technische Analyse: OK
+2025-08-12 23:47:06 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:47:06 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":16,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-12 23:47:06 INFO Telegram: Testnachricht gesendet
+2025-08-12 23:47:06 INFO ======================
+2025-08-12 23:47:06 INFO Alles bereit. Warte auf Signale...
+2025-08-12 23:50:17 INFO === Systemdiagnose ===
+2025-08-12 23:50:23 INFO Binance API: OK
+2025-08-12 23:50:38 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-12 23:50:38 INFO Technische Analyse: OK
+2025-08-12 23:50:38 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:50:38 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":17,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-12 23:50:38 INFO Telegram: Testnachricht gesendet
+2025-08-12 23:50:38 INFO ======================
+2025-08-12 23:50:38 INFO Alles bereit. Warte auf Signale...
+2025-08-12 23:50:58 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:50:59 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":18,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-12 23:50:59 INFO 🧪 Voll-Diagnose
+⏱️ 2025-08-12 23:50:38 CEST
+• Binance API: ✅ OK (BTC/USDT, ETH/USDT @ 1m)
+• TA: ✅ Indikatoren OK (RSI, MACD, BB, VWAP)
+• RSS Feeds: ✅ 62 Headlines (6h) – reddit.com 23, cointelegraph.com 8, decrypt.co 8, coindesk.com 7
+• Telegram: ✅ verbunden
+• OpenAI: ⚠️ aktiviert, aber kein API-Key gesetzt
+• Runtime: Python 3.11.0
+2025-08-12 23:51:11 INFO [INIT] Headlines geladen: 187
+2025-08-12 23:51:11 INFO  - Ether, Cardano, XRP Among Cryptos Taking New Leg Higher as Scott Bessent Floats 50 Basis Point Rate Cut | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:51:11 INFO  - Kazakhstan’s Fonte Capital Introduces Central Asia’s First Spot Bitcoin ETF | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:51:11 INFO  - Circle Dips 6% After Hours on 10M Share Secondary Offering | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:51:11 INFO  - LINK Surges 10% as Chainlink Reserve, ICE Partnership Fuel Explosive Rally | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:51:11 INFO  - Bitcoin Miner MARA Steps Into HPC With Majority Stake in EDF Subsidiary: H.C. Wainwright | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-12 23:51:11 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-12 23:51:22 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-12 23:52:12 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-12 23:52:12 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":21,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-12 23:52:42 INFO --- DEBUG @ 2025-08-12 21:52:42 UTC ---
+2025-08-12 23:52:42 INFO [NEWS] BTC: Positive | Bitcoin Profit Taking Appears Modest Even Near All-Time High; Bitcoin holds $118K while ETH, BNB, LINK, UNI aim to extend the altcoin rally; Pantera’s bear market Bitcoin call nails 2025 price, silencing cycle skeptics
+2025-08-12 23:52:42 INFO [NEWS] ETH: Positive | Ether Pumps to 5-Year High of $4.47K Alongside Tom Lee's Massive ETH Treasury Bet and Fed Rate Cut Hopes; Tom Lee's BitMine Immersion Aims to Raise as Much as $20B for More ETH Buys; Ether futures open interest hits all-time high as ETH price tops $4.5K — Will it last?
+2025-08-12 23:52:42 INFO [TA]   BTC/USDT: Neutral | px=119,952.23 | No strong confluence
+2025-08-12 23:52:42 INFO [TA]   ETH/USDT: Bearish | px=4,592.32 | RSI falling/overbought, MACD momentum down, Below BB mid
+2025-08-12 23:52:42 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-12 23:52:42 INFO --------------------------------
+2025-08-12 23:53:10 INFO Stopping bot...
+2025-08-13 21:50:52 INFO === Systemdiagnose (kurz) ===
+2025-08-13 21:50:55 INFO Binance API: OK
+2025-08-13 21:51:05 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-13 21:51:05 INFO TA: OK
+2025-08-13 21:51:05 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 21:51:05 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":23,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13 21:51:05 INFO Telegram: Testnachricht gesendet
+2025-08-13 21:51:05 INFO ======================
+2025-08-13 21:51:05 INFO Alles bereit. Warte auf Signale...
+2025-08-13 21:51:17 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 21:51:17 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":24,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13T19:51:17.685150Z DIAG-TEST
+2025-08-13 21:51:17 INFO 🧪 Voll‑Diagnose
+⏱️ Berlin: 2025-08-13 21:51:05 CEST
+🌐 UTC: 2025-08-13 19:51:05 UTC
+🗓️ Nächste Tagesdiagnose: 2025-08-14 00:00:00 CEST
+• Binance/CCXT: ✅ (ccxt 4.3.89)
+• BTC/USDT [1m]: Close 122,603.47 | RSI 65.1 | MACD_H 11.0384 | VWAPΔ 0.87% | BB-Width 0.37% | ZeroVol50 0 | Age 8s | Latency 2421ms
+• ETH/USDT [1m]: Close 4,718.09 | RSI 47.4 | MACD_H 0.7389 | VWAPΔ 0.39% | BB-Width 0.37% | ZeroVol50 0 | Age 8s | Latency 436ms
+• TA-Setup: ✅ Indikatoren vorhanden
+• RSS (6h): 60 Headlines | Domains: reddit.com 20, coindesk.com 12, cointelegraph.com 7, decrypt.co 7 | Buckets: OTHER 28, ETH 6, MARKET 12, BTC 14
+• Letzte Titel:
+  – Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats
+  – Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week
+  – Filecoin Gains 4%, Showing Strong Bullish Momentum
+• Telegram: ✅ verbunden (Senden OK)
+• OpenAI: ✅ aktiv (Key mfjS...V1kA) – wird nur bei Alerts abgefragt
+• Logging: ✅ Datei beschreibbar (logs/bot.log)
+• Runtime: Darwin 24.3.0 | Python 3.11.0
+• Assets: BTC/USDT, ETH/USDT
+• Intervals: 1m, 5m, 15m
+• Polls: price 10s | news 90s
+• Risk: TP 1.00% | SL 0.80% | Max/day 3 | Cooldown 15m
+• TA-Min-Confluence: 3 | MACD_EPS 0.15
+• Sentiment: STRONG_ONLY=False Spillover=0.5 RequireNews=True NeutralOkIfTA=False
+2025-08-13 21:51:26 INFO [INIT] Headlines geladen: 179
+2025-08-13 21:51:26 INFO  - Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 21:51:26 INFO  - Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 21:51:26 INFO  - Filecoin Gains 4%, Showing Strong Bullish Momentum | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 21:51:26 INFO  - The Protocol: OKX Slashes Native Token Supply In Half | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 21:51:26 INFO  - Crypto Platform Bullish Shares Debut Above $100, More Than Doubling IPO Price | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 21:51:26 INFO [INIT] Sentiment: BTC=Positive | ETH=Positive
+2025-08-13 21:51:36 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 21:51:36 WARNING [LLM] OpenAI error 401: {
+    "error": {
+        "message": "Incorrect API key provided: mfjSy33N***********************************************************************************************************
+2025-08-13 21:51:36 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> BTC/USDT
+<b>Side:</b> BUY
+<b>Entry:</b> 122,600.00
+<b>TP:</b> 123,826.00 (1.00%)
+<b>SL:</b> 121,619.20 (0.80%)
+<b>Why:</b> News: Positive (Metaplanet to Launch Preferred Shares, Bitcoin-Backed Yield Curve Plan; Price predictions 8/13: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, XLM; Norway’s sovereign wealth fund ups indirect Bitcoin exposure in 2025). TA: Bullish (MACD momentum up, Price above VWAP, Above BB mid)
+2025-08-13 21:52:37 INFO --- DEBUG @ 2025-08-13 19:52:37 UTC ---
+2025-08-13 21:52:37 INFO [NEWS] BTC: Positive | Metaplanet to Launch Preferred Shares, Bitcoin-Backed Yield Curve Plan; Price predictions 8/13: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, XLM; Norway’s sovereign wealth fund ups indirect Bitcoin exposure in 2025
+2025-08-13 21:52:37 INFO [NEWS] ETH: Positive | Ether Price Target Lifted to $7.5K at Year-End and $25K in 2028 at Standard Chartered; Markets Today: OKB, FART Surge as Ether Races Toward Record Highs; NFT market cap hits $9.3B, fueled by Ether surge
+2025-08-13 21:52:37 INFO [TA]   BTC/USDT: Bullish | px=122,609.01 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 21:52:37 INFO [TA]   ETH/USDT: Neutral | px=4,723.58 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-13 21:52:37 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 21:52:37 INFO --------------------------------
+2025-08-13 21:53:58 INFO --- DEBUG @ 2025-08-13 19:53:58 UTC ---
+2025-08-13 21:53:58 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 21:53:58 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 21:53:58 INFO [TA]   BTC/USDT: Bullish | px=122,654.99 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 21:53:58 INFO [TA]   ETH/USDT: Neutral | px=4,725.08 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-13 21:53:58 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 21:53:58 INFO --------------------------------
+2025-08-13 21:54:43 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 21:55:19 INFO --- DEBUG @ 2025-08-13 19:55:19 UTC ---
+2025-08-13 21:55:19 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 21:55:19 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 21:55:19 INFO [TA]   BTC/USDT: Bullish | px=122,780.00 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 21:55:19 INFO [TA]   ETH/USDT: Neutral | px=4,735.55 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-13 21:55:19 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 21:55:19 INFO --------------------------------
+2025-08-13 21:56:39 INFO --- DEBUG @ 2025-08-13 19:56:39 UTC ---
+2025-08-13 21:56:39 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 21:56:39 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 21:56:39 INFO [TA]   BTC/USDT: Bullish | px=122,774.72 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 21:56:39 INFO [TA]   ETH/USDT: Neutral | px=4,735.77 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-13 21:56:39 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 21:56:39 INFO --------------------------------
+2025-08-13 21:57:46 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 21:57:58 INFO --- DEBUG @ 2025-08-13 19:57:58 UTC ---
+2025-08-13 21:57:58 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 21:57:58 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 21:57:58 INFO [TA]   BTC/USDT: Bullish | px=122,762.98 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 21:57:58 INFO [TA]   ETH/USDT: Neutral | px=4,732.32 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-13 21:57:58 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 21:57:58 INFO --------------------------------
+2025-08-13 21:59:17 INFO --- DEBUG @ 2025-08-13 19:59:17 UTC ---
+2025-08-13 21:59:17 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 21:59:17 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 21:59:17 INFO [TA]   BTC/USDT: Bullish | px=122,694.01 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 21:59:17 INFO [TA]   ETH/USDT: Neutral | px=4,727.13 | MACD momentum up, Price above VWAP, Above BB mid, Conf TF not aligned (MACD<0)
+2025-08-13 21:59:17 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 21:59:17 INFO --------------------------------
+2025-08-13 22:00:27 INFO --- DEBUG @ 2025-08-13 20:00:27 UTC ---
+2025-08-13 22:00:27 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 22:00:27 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 22:00:27 INFO [TA]   BTC/USDT: Bullish | px=122,802.02 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 22:00:27 INFO [TA]   ETH/USDT: Bullish | px=4,741.43 | RSI rebound/oversold, MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 22:00:27 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:00:27 INFO --------------------------------
+2025-08-13 22:01:02 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:02:02 INFO --- DEBUG @ 2025-08-13 20:02:02 UTC ---
+2025-08-13 22:02:02 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 22:02:02 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 22:02:02 INFO [TA]   BTC/USDT: Bullish | px=122,776.85 | RSI rebound/oversold, Price above VWAP, Above BB mid
+2025-08-13 22:02:02 INFO [TA]   ETH/USDT: Bullish | px=4,738.63 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 22:02:02 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:02:02 INFO --------------------------------
+2025-08-13 22:03:33 INFO --- DEBUG @ 2025-08-13 20:03:33 UTC ---
+2025-08-13 22:03:33 INFO [NEWS] BTC: Neutral | No strong headlines.
+2025-08-13 22:03:33 INFO [NEWS] ETH: Neutral | No strong headlines.
+2025-08-13 22:03:33 INFO [TA]   BTC/USDT: Neutral | px=122,623.39 | RSI falling/overbought, MACD momentum down, Below BB mid, Conf TF not aligned (MACD>0)
+2025-08-13 22:03:33 INFO [TA]   ETH/USDT: Bullish | px=4,729.37 | MACD momentum up, Price above VWAP, Above BB mid
+2025-08-13 22:03:33 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:03:33 INFO --------------------------------
+2025-08-13 22:03:53 INFO Stopping bot...
+2025-08-13 22:15:51 INFO === Systemdiagnose (kurz) ===
+2025-08-13 22:15:54 INFO Binance API: OK
+2025-08-13 22:16:00 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-13 22:16:00 ERROR TA: Fehler - 'RangeIndex' object has no attribute 'to_period'
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 361, in system_check
+    dfta = compute_indicators(df_test)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:16:00 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 22:16:01 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":27,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13 22:16:01 INFO Telegram: Testnachricht gesendet
+2025-08-13 22:16:01 INFO ======================
+2025-08-13 22:16:01 ERROR Es gab Fehler im Systemcheck. Bitte prüfe die Meldungen oben.
+2025-08-13 22:16:08 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 22:16:09 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":28,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13T20:16:09.131221Z DIAG-TEST
+2025-08-13 22:16:09 INFO 🧪 Voll‑Diagnose
+⏱️ Berlin: 2025-08-13 22:16:01 CEST
+🌐 UTC: 2025-08-13 20:16:01 UTC
+🗓️ Nächste Tagesdiagnose: 2025-08-14 00:00:00 CEST
+• Binance/CCXT: ⚠️ prüfen (ccxt 4.3.89)
+• BTC/USDT: ❌ Fehler ('RangeIndex' object has no attribute 'to_period')
+• ETH/USDT: ❌ Fehler ('RangeIndex' object has no attribute 'to_period')
+• TA-Setup: ❌ Fehler ('RangeIndex' object has no attribute 'to_period')
+• RSS (6h): 51 Headlines | Domains: reddit.com 19, coindesk.com 11, cointelegraph.com 6, decrypt.co 6 | Buckets: OTHER 20, ETH 6, MARKET 13, BTC 12
+• Letzte Titel:
+  – Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats
+  – Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week
+  – Filecoin Gains 4%, Showing Strong Bullish Momentum
+• Telegram: ✅ verbunden (Senden OK)
+• OpenAI: ⚠️ aktiv, aber kein API-Key gesetzt
+• Logging: ✅ Datei beschreibbar (logs/bot.log)
+• Runtime: Darwin 24.3.0 | Python 3.11.0
+• Assets: BTC/USDT, ETH/USDT
+• Intervals: 1m, 5m, 15m
+• Polls: price 10s | news 90s
+• Risk: TP 1.00% | SL 0.80% | Max/day 3 | Cooldown 15m
+2025-08-13 22:16:13 INFO [INIT] Headlines geladen: 166
+2025-08-13 22:16:13 INFO  - Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:16:13 INFO  - Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:16:13 INFO  - Filecoin Gains 4%, Showing Strong Bullish Momentum | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:16:13 INFO  - The Protocol: OKX Slashes Native Token Supply In Half | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:16:13 INFO  - Crypto Platform Bullish Shares Debut Above $100, More Than Doubling IPO Price | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:16:13 INFO [INIT] Sentiment: BTC=Neutral | ETH=Neutral
+2025-08-13 22:16:19 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:16:19 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:16:26 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:16:35 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:16:41 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:16:49 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:16:56 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:03 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:10 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:17 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:24 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:31 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:38 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:49 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:17:56 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:03 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:10 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:17 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:24 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:31 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:37 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:44 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:51 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:18:58 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:04 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:11 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:22 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:19:22 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:28 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:35 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:42 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:49 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:19:56 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:20:04 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:20:11 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:20:18 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:20:25 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:20:32 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:20:39 ERROR Unbehandelte Ausnahme im Loop
+Traceback (most recent call last):
+  File "/Users/hasanyurdagul/PyCharmMiscProject/bot_main.py", line 555, in main
+    ta_signals = detect_ta_signal(pf.data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 36, in detect_ta_signal
+    d = compute_indicators(df)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/analysis/technical_analyzer.py", line 22, in compute_indicators
+    d['VWAP'] = ta.vwap(d['high'], d['low'], d['close'], d['volume'])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hasanyurdagul/PyCharmMiscProject/.venv/lib/python3.11/site-packages/pandas_ta/overlap/vwap.py", line 23, in vwap
+    vwap  = wp.groupby(wp.index.to_period(anchor)).cumsum()
+                       ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RangeIndex' object has no attribute 'to_period'
+2025-08-13 22:23:03 INFO === Systemdiagnose (kurz) ===
+2025-08-13 22:23:06 INFO Binance API: OK
+2025-08-13 22:23:10 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-13 22:23:10 INFO TA: OK
+2025-08-13 22:23:10 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 22:23:10 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":30,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13 22:23:10 INFO Telegram: Testnachricht gesendet
+2025-08-13 22:23:10 INFO ======================
+2025-08-13 22:23:10 INFO Alles bereit. Warte auf Signale...
+2025-08-13 22:23:17 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 22:23:17 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":31,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13T20:23:17.770586Z DIAG-TEST
+2025-08-13 22:23:17 INFO 🧪 Voll‑Diagnose
+⏱️ Berlin: 2025-08-13 22:23:10 CEST
+🌐 UTC: 2025-08-13 20:23:10 UTC
+🗓️ Nächste Tagesdiagnose: 2025-08-14 00:00:00 CEST
+• Binance/CCXT: ✅ (ccxt 4.3.89)
+• BTC/USDT [1m]: Close 122,706.00 | RSI 52.4 | MACD_H 41.0247 | VWAPΔ 0.72% | BB-Width 0.26% | ZeroVol50 0 | Age 13s | Latency 2162ms
+• ETH/USDT [1m]: Close 4,711.29 | RSI 39.4 | MACD_H -2.4660 | VWAPΔ -0.00% | BB-Width 0.44% | ZeroVol50 0 | Age 13s | Latency 275ms
+• TA-Setup: ✅ Indikatoren vorhanden
+• RSS (6h): 50 Headlines | Domains: reddit.com 18, coindesk.com 10, cointelegraph.com 7, decrypt.co 5 | Buckets: OTHER 19, ETH 6, MARKET 14, BTC 11
+• Letzte Titel:
+  – Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats
+  – Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week
+  – Filecoin Gains 4%, Showing Strong Bullish Momentum
+• Telegram: ✅ verbunden (Senden OK)
+• OpenAI: ⚠️ aktiv, aber kein API-Key gesetzt
+• Logging: ✅ Datei beschreibbar (logs/bot.log)
+• Runtime: Darwin 24.3.0 | Python 3.11.0
+• Assets: BTC/USDT, ETH/USDT
+• Intervals: 1m, 5m, 15m
+• Polls: price 10s | news 90s
+• Risk: TP 1.00% | SL 0.80% | Max/day 3 | Cooldown 15m
+2025-08-13 22:23:22 INFO [INIT] Headlines geladen: 166
+2025-08-13 22:23:22 INFO  - Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:23:22 INFO  - Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:23:22 INFO  - Filecoin Gains 4%, Showing Strong Bullish Momentum | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:23:22 INFO  - The Protocol: OKX Slashes Native Token Supply In Half | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:23:22 INFO  - Crypto Platform Bullish Shares Debut Above $100, More Than Doubling IPO Price | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:23:22 INFO [INIT] Sentiment: BTC=Neutral | ETH=Neutral
+2025-08-13 22:23:26 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:23:26 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> BTC/USDT
+<b>Side:</b> BUY
+<b>Entry:</b> 122,697.54
+<b>TP:</b> 122,783.61 (0.07%)
+<b>SL:</b> 122,640.16 (0.05%)
+<b>Why:</b> TA Bullish (MACD momentum up, Above BB mid, Above VWAP); News=Neutral; Partial: 50% @ 123311.03
+2025-08-13 22:23:36 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> ETH/USDT
+<b>Side:</b> SELL
+<b>Entry:</b> 4,711.29
+<b>TP:</b> 4,717.45 (0.13%)
+<b>SL:</b> 4,707.18 (0.09%)
+<b>Why:</b> TA Bearish (No strong confluence); News=Neutral; Partial: 50% @ 4687.73
+2025-08-13 22:23:36 INFO 📤 <b>Trade Exit</b>
+<b>Pair:</b> ETH/USDT
+<b>Side:</b> SELL
+<b>Exit:</b> 4,711.29
+<b>PnL:</b> 0.00%
+<b>Why:</b> target/stop
+2025-08-13 22:24:17 INFO --- DEBUG @ 2025-08-13 20:24:17 UTC ---
+2025-08-13 22:24:17 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:24:17 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:24:17 INFO [TA]   BTC/USDT: Bullish | px=122,697.54 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:24:17 INFO [TA]   ETH/USDT: Bearish | px=4,711.29 | No strong confluence
+2025-08-13 22:24:17 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:24:17 INFO --------------------------------
+2025-08-13 22:25:22 INFO --- DEBUG @ 2025-08-13 20:25:22 UTC ---
+2025-08-13 22:25:22 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:25:22 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:25:22 INFO [TA]   BTC/USDT: Bullish | px=122,697.54 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:25:22 INFO [TA]   ETH/USDT: Bearish | px=4,711.29 | No strong confluence
+2025-08-13 22:25:22 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:25:22 INFO --------------------------------
+2025-08-13 22:26:23 INFO --- DEBUG @ 2025-08-13 20:26:23 UTC ---
+2025-08-13 22:26:23 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:26:23 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:26:23 INFO [TA]   BTC/USDT: Bullish | px=122,697.54 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:26:23 INFO [TA]   ETH/USDT: Bearish | px=4,711.29 | No strong confluence
+2025-08-13 22:26:23 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:26:23 INFO --------------------------------
+2025-08-13 22:26:37 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:27:28 INFO --- DEBUG @ 2025-08-13 20:27:28 UTC ---
+2025-08-13 22:27:28 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:27:28 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:27:28 INFO [TA]   BTC/USDT: Bullish | px=122,697.54 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:27:28 INFO [TA]   ETH/USDT: Bearish | px=4,711.29 | No strong confluence
+2025-08-13 22:27:28 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:27:28 INFO --------------------------------
+2025-08-13 22:27:55 INFO Stopping bot...
+2025-08-13 22:30:43 INFO === Systemdiagnose (kurz) ===
+2025-08-13 22:30:47 INFO Binance API: OK
+2025-08-13 22:30:51 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-13 22:30:51 INFO TA: OK
+2025-08-13 22:30:51 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 22:30:51 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":36,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13 22:30:51 INFO Telegram: Testnachricht gesendet
+2025-08-13 22:30:51 INFO ======================
+2025-08-13 22:30:51 INFO Alles bereit. Warte auf Signale...
+2025-08-13 22:30:58 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 22:30:58 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":37,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13T20:30:58.950609Z DIAG-TEST
+2025-08-13 22:30:58 INFO 🧪 Voll‑Diagnose
+⏱️ Berlin: 2025-08-13 22:30:51 CEST
+🌐 UTC: 2025-08-13 20:30:51 UTC
+🗓️ Nächste Tagesdiagnose: 2025-08-14 00:00:00 CEST
+• Binance/CCXT: ✅ (ccxt 4.3.89)
+• BTC/USDT [1m]: Close 122,700.00 | RSI 53.9 | MACD_H 8.0440 | VWAPΔ 0.69% | BB-Width 0.20% | ZeroVol50 0 | Age 54s | Latency 2670ms
+• ETH/USDT [1m]: Close 4,715.80 | RSI 50.6 | MACD_H -3.7690 | VWAPΔ 0.07% | BB-Width 0.51% | ZeroVol50 0 | Age 54s | Latency 261ms
+• TA-Setup: ✅ Indikatoren vorhanden
+• RSS (6h): 43 Headlines | Domains: reddit.com 17, coindesk.com 9, cointelegraph.com 7, cryptopotato.com 5 | Buckets: OTHER 18, ETH 4, MARKET 12, BTC 9
+• Letzte Titel:
+  – Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats
+  – Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week
+  – Filecoin Gains 4%, Showing Strong Bullish Momentum
+• Telegram: ✅ verbunden (Senden OK)
+• OpenAI: ⚠️ aktiv, aber kein API-Key gesetzt
+• Logging: ✅ Datei beschreibbar (logs/bot.log)
+• Runtime: Darwin 24.3.0 | Python 3.11.0
+• Assets: BTC/USDT, ETH/USDT
+• Intervals: 1m, 5m, 15m
+• Polls: price 10s | news 90s
+• Risk: TP 1.00% | SL 0.80% | Max/day 3 | Cooldown 15m
+2025-08-13 22:31:02 INFO [INIT] Headlines geladen: 147
+2025-08-13 22:31:02 INFO  - Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:31:02 INFO  - Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:31:02 INFO  - Filecoin Gains 4%, Showing Strong Bullish Momentum | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:31:02 INFO  - The Protocol: OKX Slashes Native Token Supply In Half | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:31:02 INFO  - Crypto Platform Bullish Shares Debut Above $100, More Than Doubling IPO Price | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 22:31:02 INFO [INIT] Sentiment: BTC=Neutral | ETH=Neutral
+2025-08-13 22:31:08 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:31:08 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> BTC/USDT
+<b>Side:</b> BUY
+<b>Entry:</b> 122,708.70
+<b>TP:</b> 122,777.46 (0.06%)
+<b>SL:</b> 122,662.86 (0.04%)
+<b>Why:</b> TA Bullish (MACD momentum up, Above BB mid, Above VWAP); News=Neutral; Partial: 50% @ 123322.24
+2025-08-13 22:32:08 INFO --- DEBUG @ 2025-08-13 20:32:08 UTC ---
+2025-08-13 22:32:08 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:32:08 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:32:08 INFO [TA]   BTC/USDT: Bullish | px=122,771.22 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:32:08 INFO [TA]   ETH/USDT: Bullish | px=4,720.17 | RSI>55, Above BB mid, Above VWAP
+2025-08-13 22:32:08 INFO [DECISION] Signal: BUY ETH/USDT @ 4,720.17 | TP 4,726.10 | SL 4,716.22
+2025-08-13 22:32:08 INFO [WHY] TA Bullish (RSI>55, Above BB mid, Above VWAP); News=Neutral; Partial: 50% @ 4743.77
+2025-08-13 22:32:08 INFO --------------------------------
+2025-08-13 22:32:08 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> ETH/USDT
+<b>Side:</b> BUY
+<b>Entry:</b> 4,720.17
+<b>TP:</b> 4,726.10 (0.13%)
+<b>SL:</b> 4,716.22 (0.08%)
+<b>Why:</b> TA Bullish (RSI&gt;55, Above BB mid, Above VWAP); News=Neutral; Partial: 50% @ 4743.77
+2025-08-13 22:33:23 INFO --- DEBUG @ 2025-08-13 20:33:23 UTC ---
+2025-08-13 22:33:23 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:33:23 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:33:23 INFO [TA]   BTC/USDT: Bullish | px=122,708.90 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:33:23 INFO [TA]   ETH/USDT: Neutral | px=4,717.12 | Above BB mid, Above VWAP
+2025-08-13 22:33:23 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:33:23 INFO --------------------------------
+2025-08-13 22:34:27 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:34:39 INFO --- DEBUG @ 2025-08-13 20:34:39 UTC ---
+2025-08-13 22:34:39 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:34:39 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:34:39 INFO [TA]   BTC/USDT: Bullish | px=122,729.99 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:34:39 INFO [TA]   ETH/USDT: Neutral | px=4,717.44 | Above BB mid, Above VWAP
+2025-08-13 22:34:39 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:34:39 INFO --------------------------------
+2025-08-13 22:35:50 INFO --- DEBUG @ 2025-08-13 20:35:50 UTC ---
+2025-08-13 22:35:50 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:35:50 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:35:50 INFO [TA]   BTC/USDT: Bullish | px=122,715.80 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:35:50 INFO [TA]   ETH/USDT: Neutral | px=4,716.71 | Above BB mid, Above VWAP
+2025-08-13 22:35:50 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:35:50 INFO --------------------------------
+2025-08-13 22:36:06 INFO 📤 <b>Trade Exit</b>
+<b>Pair:</b> BTC/USDT
+<b>Side:</b> BUY
+<b>Exit:</b> 122,781.86
+<b>PnL:</b> 0.06%
+<b>Why:</b> target/stop
+2025-08-13 22:37:06 INFO --- DEBUG @ 2025-08-13 20:37:06 UTC ---
+2025-08-13 22:37:06 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:37:06 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:37:06 INFO [TA]   BTC/USDT: Bullish | px=122,795.69 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:37:06 INFO [TA]   ETH/USDT: Bullish | px=4,723.34 | RSI>55, Above BB mid, Above VWAP
+2025-08-13 22:37:06 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:37:06 INFO --------------------------------
+2025-08-13 22:37:45 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:38:21 INFO --- DEBUG @ 2025-08-13 20:38:21 UTC ---
+2025-08-13 22:38:21 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:38:21 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:38:21 INFO [TA]   BTC/USDT: Bullish | px=122,722.68 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:38:21 INFO [TA]   ETH/USDT: Bullish | px=4,723.29 | RSI>55, Above BB mid, Above VWAP
+2025-08-13 22:38:21 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:38:21 INFO --------------------------------
+2025-08-13 22:39:09 INFO 📤 <b>Trade Exit</b>
+<b>Pair:</b> ETH/USDT
+<b>Side:</b> BUY
+<b>Exit:</b> 4,726.17
+<b>PnL:</b> 0.13%
+<b>Why:</b> target/stop
+2025-08-13 22:39:38 INFO --- DEBUG @ 2025-08-13 20:39:38 UTC ---
+2025-08-13 22:39:38 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:39:38 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:39:38 INFO [TA]   BTC/USDT: Bullish | px=122,771.01 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:39:38 INFO [TA]   ETH/USDT: Bullish | px=4,726.17 | RSI>55, Above BB mid, Above VWAP
+2025-08-13 22:39:38 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:39:38 INFO --------------------------------
+2025-08-13 22:40:50 INFO --- DEBUG @ 2025-08-13 20:40:50 UTC ---
+2025-08-13 22:40:50 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:40:50 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:40:50 INFO [TA]   BTC/USDT: Bullish | px=122,770.17 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:40:50 INFO [TA]   ETH/USDT: Bullish | px=4,725.99 | RSI>55, Above BB mid, Above VWAP
+2025-08-13 22:40:50 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:40:50 INFO --------------------------------
+2025-08-13 22:42:06 INFO --- DEBUG @ 2025-08-13 20:42:06 UTC ---
+2025-08-13 22:42:06 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:42:06 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:42:06 INFO [TA]   BTC/USDT: Bullish | px=122,772.01 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:42:06 INFO [TA]   ETH/USDT: Bullish | px=4,728.40 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:42:06 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:42:06 INFO --------------------------------
+2025-08-13 22:42:46 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:43:21 INFO --- DEBUG @ 2025-08-13 20:43:21 UTC ---
+2025-08-13 22:43:21 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:43:21 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:43:21 INFO [TA]   BTC/USDT: Bullish | px=122,794.89 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:43:21 INFO [TA]   ETH/USDT: Bullish | px=4,730.40 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:43:21 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:43:21 INFO --------------------------------
+2025-08-13 22:44:38 INFO --- DEBUG @ 2025-08-13 20:44:38 UTC ---
+2025-08-13 22:44:38 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:44:38 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:44:38 INFO [TA]   BTC/USDT: Bullish | px=122,755.40 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:44:38 INFO [TA]   ETH/USDT: Bullish | px=4,727.25 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:44:38 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:44:38 INFO --------------------------------
+2025-08-13 22:45:49 INFO --- DEBUG @ 2025-08-13 20:45:49 UTC ---
+2025-08-13 22:45:49 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:45:49 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:45:49 INFO [TA]   BTC/USDT: Bullish | px=122,803.94 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:45:49 INFO [TA]   ETH/USDT: Bullish | px=4,728.27 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:45:49 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:45:49 INFO --------------------------------
+2025-08-13 22:46:04 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:46:16 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> BTC/USDT
+<b>Side:</b> BUY
+<b>Entry:</b> 122,815.39
+<b>TP:</b> 122,867.48 (0.04%)
+<b>SL:</b> 122,780.66 (0.03%)
+<b>Why:</b> TA Bullish (RSI&gt;55, MACD momentum up, Above BB mid, Above VWAP); News=Neutral; Partial: 50% @ 123429.47
+2025-08-13 22:47:03 INFO --- DEBUG @ 2025-08-13 20:47:03 UTC ---
+2025-08-13 22:47:03 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:47:03 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:47:03 INFO [TA]   BTC/USDT: Bullish | px=122,818.35 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:47:03 INFO [TA]   ETH/USDT: Bullish | px=4,726.74 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:47:03 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:47:03 INFO --------------------------------
+2025-08-13 22:48:07 INFO 📤 <b>Trade Exit</b>
+<b>Pair:</b> BTC/USDT
+<b>Side:</b> BUY
+<b>Exit:</b> 122,880.00
+<b>PnL:</b> 0.05%
+<b>Why:</b> target/stop
+2025-08-13 22:48:19 INFO --- DEBUG @ 2025-08-13 20:48:19 UTC ---
+2025-08-13 22:48:19 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:48:19 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:48:19 INFO [TA]   BTC/USDT: Bullish | px=122,880.00 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:48:19 INFO [TA]   ETH/USDT: Bullish | px=4,724.22 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:48:19 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:48:19 INFO --------------------------------
+2025-08-13 22:49:33 INFO --- DEBUG @ 2025-08-13 20:49:33 UTC ---
+2025-08-13 22:49:33 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:49:33 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:49:33 INFO [TA]   BTC/USDT: Bullish | px=122,896.43 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:49:33 INFO [TA]   ETH/USDT: Bullish | px=4,724.07 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:49:33 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:49:33 INFO --------------------------------
+2025-08-13 22:50:45 INFO --- DEBUG @ 2025-08-13 20:50:45 UTC ---
+2025-08-13 22:50:45 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:50:45 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:50:45 INFO [TA]   BTC/USDT: Bullish | px=122,926.01 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:50:45 INFO [TA]   ETH/USDT: Bullish | px=4,723.99 | MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:50:45 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:50:45 INFO --------------------------------
+2025-08-13 22:51:05 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:52:03 INFO --- DEBUG @ 2025-08-13 20:52:03 UTC ---
+2025-08-13 22:52:03 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:52:03 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:52:03 INFO [TA]   BTC/USDT: Bullish | px=122,944.66 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:52:03 INFO [TA]   ETH/USDT: Neutral | px=4,719.83 | MACD momentum up, Above VWAP
+2025-08-13 22:52:03 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:52:03 INFO --------------------------------
+2025-08-13 22:53:20 INFO --- DEBUG @ 2025-08-13 20:53:20 UTC ---
+2025-08-13 22:53:20 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:53:20 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:53:20 INFO [TA]   BTC/USDT: Bullish | px=122,958.26 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:53:20 INFO [TA]   ETH/USDT: Neutral | px=4,718.58 | MACD momentum up, Above VWAP
+2025-08-13 22:53:20 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:53:20 INFO --------------------------------
+2025-08-13 22:54:37 INFO --- DEBUG @ 2025-08-13 20:54:37 UTC ---
+2025-08-13 22:54:37 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:54:37 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:54:37 INFO [TA]   BTC/USDT: Bullish | px=122,970.00 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:54:37 INFO [TA]   ETH/USDT: Neutral | px=4,721.22 | MACD momentum up, Above VWAP
+2025-08-13 22:54:37 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:54:37 INFO --------------------------------
+2025-08-13 22:55:48 INFO --- DEBUG @ 2025-08-13 20:55:48 UTC ---
+2025-08-13 22:55:48 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:55:48 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:55:48 INFO [TA]   BTC/USDT: Bullish | px=122,951.20 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:55:48 INFO [TA]   ETH/USDT: Neutral | px=4,717.75 | MACD momentum up, Above VWAP
+2025-08-13 22:55:48 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:55:48 INFO --------------------------------
+2025-08-13 22:56:04 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 22:57:03 INFO --- DEBUG @ 2025-08-13 20:57:03 UTC ---
+2025-08-13 22:57:03 INFO [NEWS] BTC: Neutral | —
+2025-08-13 22:57:03 INFO [NEWS] ETH: Neutral | —
+2025-08-13 22:57:03 INFO [TA]   BTC/USDT: Bullish | px=122,972.58 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 22:57:03 INFO [TA]   ETH/USDT: Neutral | px=4,714.09 | MACD momentum up, Above VWAP
+2025-08-13 22:57:03 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 22:57:03 INFO --------------------------------
+2025-08-13 22:57:08 INFO Stopping bot...
+2025-08-13 23:06:33 INFO === Systemdiagnose (kurz) ===
+2025-08-13 23:06:36 INFO Binance API: OK
+2025-08-13 23:06:40 WARNING RSS Feeds: keine neuen Headlines (kann zeitweise normal sein)
+2025-08-13 23:06:40 INFO TA: OK
+2025-08-13 23:06:40 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 23:06:40 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":45,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13 23:06:40 INFO Telegram: Testnachricht gesendet
+2025-08-13 23:06:40 INFO ======================
+2025-08-13 23:06:40 INFO Alles bereit. Warte auf Signale...
+2025-08-13 23:06:52 INFO [TG-SELFTEST] Token? True (84591534...xmP8) | Chat-ID? True (5331103567)
+2025-08-13 23:06:52 INFO [TG-SELFTEST] Status 200 | Body: {"ok":true,"result":{"message_id":46,"from":{"id":8459153464,"is_bot":true,"first_name":"hiyTrade","username":"hiyTrbot"},"chat":{"id":5331103567,"first_name":"Hasan","last_name":"Y","type":"private"}
+2025-08-13T21:06:52.326071Z DIAG-TEST
+2025-08-13 23:06:52 INFO 🧪 Voll‑Diagnose
+⏱️ Berlin: 2025-08-13 23:06:40 CEST
+🌐 UTC: 2025-08-13 21:06:40 UTC
+🗓️ Nächste Tagesdiagnose: 2025-08-14 00:00:00 CEST
+• Binance/CCXT: ccxt 4.3.89
+  └ BTC/USDT [1m] Close 122,853.70 | RSI 51.1 | MACD_H 22.7094 | VWAPΔ 0.64% | Age 43s | Lat 2830ms
+  └ ETH/USDT [1m] Close 4,729.59 | RSI 61.4 | MACD_H 0.7072 | VWAPΔ 0.24% | Age 43s | Lat 263ms
+• RSS (6h): 53 | Domains: reddit.com 21, coindesk.com 9, cointelegraph.com 9, decrypt.co 6 | Buckets: BTC 9, OTHER 23, ETH 5, MARKET 16
+• Letzte Titel:
+  – Bitcoin Tops $122K, Eyes Fresh Record, With Ether Just 3% From 2021 ATH
+  – Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats
+  – Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week
+• Funding (perp): BTC/USDT=+0.0001, ETH/USDT=+0.0001
+• Orderbook Imbalance: BTC/USDT=+0.217, ETH/USDT=+0.667
+• Higher‑TF Trend: BTC/USDT:UP, ETH/USDT:UP
+• Telegram: ✅ verbunden (Senden OK)
+• OpenAI: ⚠️ aktiv, aber kein API-Key gesetzt
+• Logging: ✅ Datei beschreibbar (logs/bot.log)
+• Runtime: Darwin 24.3.0 | Python 3.11.0
+• Assets: BTC/USDT, ETH/USDT
+• Intervals: 1m, 5m, 15m
+• Polls: price 10s | news 90s
+• Risk: TP 1.00% | SL 0.80% | Max/day 3 | Cooldown 15m
+2025-08-13 23:06:56 INFO [INIT] Headlines geladen: 168
+2025-08-13 23:06:56 INFO  - Bitcoin Tops $122K, Eyes Fresh Record, With Ether Just 3% From 2021 ATH | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 23:06:56 INFO  - Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 23:06:56 INFO  - Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 23:06:56 INFO  - Filecoin Gains 4%, Showing Strong Bullish Momentum | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 23:06:56 INFO  - The Protocol: OKX Slashes Native Token Supply In Half | CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+2025-08-13 23:06:56 INFO [INIT] Sentiment: BTC=Neutral | ETH=Neutral
+2025-08-13 23:07:02 INFO [NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.
+2025-08-13 23:07:08 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> BTC/USDT
+<b>Side:</b> BUY
+<b>Entry:</b> 122,853.70
+<b>TP:</b> 123,662.27 (0.66%)
+<b>SL:</b> 122,314.66 (0.44%)
+<b>Why:</b> TA Bullish (RSI&gt;55, MACD momentum up, Above BB mid, Above VWAP); News=Neutral; Partial: 50% @ 123467.97
+2025-08-13 23:07:24 INFO 🔔 <b>Trade Alert</b>
+<b>Pair:</b> ETH/USDT
+<b>Side:</b> BUY
+<b>Entry:</b> 4,737.33
+<b>TP:</b> 4,797.14 (1.26%)
+<b>SL:</b> 4,697.45 (0.84%)
+<b>Why:</b> TA Bullish (RSI&gt;55, MACD momentum up, Above BB mid, Above VWAP); News=Neutral; Partial: 50% @ 4761.02
+2025-08-13 23:08:32 INFO --- DEBUG @ 2025-08-13 21:08:32 UTC ---
+2025-08-13 23:08:32 INFO [NEWS] BTC: Neutral | —
+2025-08-13 23:08:32 INFO [NEWS] ETH: Neutral | —
+2025-08-13 23:08:32 INFO [TA]   BTC/USDT: Bullish | px=123,000.00 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 23:08:32 INFO [TA]   ETH/USDT: Bullish | px=4,759.39 | RSI>55, MACD momentum up, Above BB mid, Above VWAP
+2025-08-13 23:08:32 INFO [DECISION] Kein Signal – News & TA stimmen nicht gleichzeitig überein.
+2025-08-13 23:08:32 INFO --------------------------------
+2025-08-13 23:09:07 INFO Stopping bot...
