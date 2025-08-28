@@ -129,6 +129,6 @@ RSS_FEEDS = [
     "https://www.reddit.com/r/Bitcoin/.rss",
     "https://www.reddit.com/r/ethereum/.rss",
 ]
-
+NON_ALERT_COOLDOWN_SEC = int(os.getenv("NON_ALERT_COOLDOWN_SEC", "3600"))
 # wie weit auseinander Observation-Alerts liegen sollen (in Sekunden)
 OBSERVATION_NOTIFY_COOLDOWN_SEC = int(os.getenv("OBSERVATION_NOTIFY_COOLDOWN_SEC", "3600"))

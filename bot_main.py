@@ -9,16 +9,15 @@ from collections import Counter
 from datetime import datetime, timedelta
 
 try:
-    # Python 3.9+
     from zoneinfo import ZoneInfo
     TZ_EU_BERLIN = ZoneInfo("Europe/Berlin")
 except Exception:
-    TZ_EU_BERLIN = None  # Fallback
+    TZ_EU_BERLIN = None
 
-import config as CFG  # für Konfig-Infos im Report
+import config as CFG
 
 from config import (
-    # Kern
+    # Core
     ASSETS, INTERVALS, NEWS_POLL_SECS, PRICE_POLL_SECS,
     DEBUG_LOGGING, DEBUG_EVERY_N_LOOPS,
     ENABLE_HOURLY_SNAPSHOT, SNAPSHOT_INTERVAL_MIN,
@@ -26,10 +25,8 @@ from config import (
     TELEGRAM_CHAT_ID,
     # LLM / Reports
     OPENAI_API_KEY, USE_OPENAI_ON_ALERT, USE_DAILY_LLM_REPORT, DAILY_REPORT_HOUR_LOCAL,
-    # Multi-TF & Datenquellen
-    HIGHER_TF,
-    # Flags für extra Daten
-    USE_FUNDING, USE_ORDERBOOK, OB_DEPTH,
+    # Higher TF & extras
+    HIGHER_TF, USE_FUNDING, USE_ORDERBOOK, OB_DEPTH,
 )
 
 from data_sources.price_feed import PriceFeed
@@ -49,7 +46,8 @@ from execution.notifier import (
 
 from ai.explainer import llm_verdict_alert, daily_market_report
 
-# ---------- Logging ----------
+
+# ---------------- Logging ----------------
 logger = logging.getLogger("bot")
 logger.setLevel(getattr(logging, LOG_LEVEL, logging.INFO))
 console = logging.StreamHandler()
@@ -65,7 +63,7 @@ if LOG_TO_FILE:
     logger.addHandler(file_handler)
 
 
-# ---------- Helpers ----------
+# ---------------- Helpers ----------------
 def _fmt(x, n=2):
     try:
         return f"{float(x):,.{n}f}"
@@ -98,7 +96,7 @@ def safe_midprice(df):
         return None
 
 
-# ---------- Higher TF Trend ----------
+# -------- Higher TF Trend --------
 def _higher_trend_for_symbol(pf: PriceFeed, sym: str) -> str:
     try:
         df = pf.fetch_ohlcv(sym, HIGHER_TF, limit=max(600, getattr(CFG, "EMA_TREND_LEN", 200) * 3))
@@ -122,7 +120,7 @@ def get_higher_trends(pf: PriceFeed) -> Dict[str, str]:
     return {sym: _higher_trend_for_symbol(pf, sym) for sym in ASSETS}
 
 
-# ---------- Snapshots ----------
+# ---------------- Snapshot ----------------
 def asset_snapshot(pf: PriceFeed, reason: str = "snapshot"):
     import pandas as pd
     base_tf = INTERVALS[0]
@@ -144,7 +142,6 @@ def asset_snapshot(pf: PriceFeed, reason: str = "snapshot"):
             vwap = last.get('VWAP')
             above_vwap = "Y" if (vwap is not None and not pd.isna(vwap) and float(last['close']) >= float(vwap)) else "N"
             vwap_s = _fmt(vwap) if vwap is not None else "—"
-            # BB-Width
             bb_mid = last.get('BB_MIDDLE'); bb_up = last.get('BB_UPPER'); bb_lo = last.get('BB_LOWER')
             bbw = "—"
             try:
@@ -158,7 +155,7 @@ def asset_snapshot(pf: PriceFeed, reason: str = "snapshot"):
     logger.info("-" * 56)
 
 
-# ---------- Ausführliche Diagnose ----------
+# --------------- Diagnose ---------------
 def _classify_bucket(title: str) -> str:
     t = (title or "").lower()
     if "bitcoin" in t or "btc" in t: return "BTC"
@@ -194,7 +191,7 @@ def _diagnose_report(pf: PriceFeed) -> str:
     if next_diag:
         lines.append(f"🗓️ Nächste Tagesdiagnose: {_esc(next_diag.strftime('%Y-%m-%d %H:%M:%S %Z'))}")
 
-    # Binance/CCXT + TA Mini-Überblick + Stale/Latency
+    # Binance/TA Kurzüberblick
     try:
         try:
             import ccxt
@@ -296,7 +293,7 @@ def _diagnose_report(pf: PriceFeed) -> str:
     except Exception as e:
         lines.append(f"• OpenAI: ❌ Fehler ({_esc(str(e))})")
 
-    # Logging
+    # Logging & Env
     try:
         if LOG_TO_FILE and LOG_FILE:
             os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
@@ -308,7 +305,6 @@ def _diagnose_report(pf: PriceFeed) -> str:
     except Exception as e:
         lines.append(f"• Logging: ❌ Fehler ({_esc(str(e))})")
 
-    # Umgebung & Risk
     try:
         py_ver = f"{os.sys.version_info.major}.{os.sys.version_info.minor}.{os.sys.version_info.micro}"
         sysline = f"{platform.system()} {platform.release()} | Python {py_ver}"
@@ -339,7 +335,7 @@ def run_full_diagnose_and_notify(pf: PriceFeed, tag: str = "startup"):
         logger.warning("Diagnose per Telegram konnte nicht gesendet werden.")
 
 
-# ---------- Systemcheck (kurz) ----------
+# --------------- Systemcheck (kurz) ---------------
 def system_check():
     logger.info("=== Systemdiagnose (kurz) ===")
     ok_any = True
@@ -388,7 +384,7 @@ def system_check():
         logger.error("Es gab Fehler im Systemcheck. Bitte prüfe die Meldungen oben.")
 
 
-# ---------- Debug-Reporting ----------
+# --------------- Debug ---------------
 def debug_report(loop_i: int, news_state: Dict[str, dict], ta_signals: Dict[str, Dict[str, str]], prices: Dict[str, float], decision):
     if not DEBUG_LOGGING:
         return
@@ -431,9 +427,9 @@ def _build_status_message(latest_prices: Dict[str, float], news_state: Dict[str,
     return "\n".join(lines)
 
 
-# ---------- Main ----------
+# ---------------- Main ----------------
 def main():
-    # Start-Diagnose ins Log + ausführliche Telegram-Diagnose
+    # Start-Diagnose + Telegram
     system_check()
     pf = PriceFeed()
     run_full_diagnose_and_notify(pf, tag="startup")
@@ -441,7 +437,7 @@ def main():
     from execution.trade_manager import TradeManager
     tm = TradeManager()
 
-    # --- globaler Cooldown für alle Nicht-Alert-Nachrichten ---
+    # globaler Cooldown für Nicht-Alerts
     NON_ALERT_COOLDOWN_SEC = getattr(CFG, "NON_ALERT_COOLDOWN_SEC", 3600)
     last_non_alert_sent = 0.0
 
@@ -451,19 +447,15 @@ def main():
         if (now_ts - last_non_alert_sent) >= NON_ALERT_COOLDOWN_SEC:
             if send_telegram(html_text):
                 last_non_alert_sent = now_ts
-        # sonst: innerhalb des Cooldowns -> stumm
 
-    # Warmstart-Lookback: 24h
+    # Warmstart News (24h)
     last_news_ts = time.time() - 3600 * 24
     last_news_pull = 0
-    news_state = {
-        'BTC': {'label':'Neutral','reason':'init'},
-        'ETH': {'label':'Neutral','reason':'init'},
-        'MARKET': {'label':'Neutral','reason':'init'}
-    }
-    recent_news_buffer: List[dict] = []  # für LLM-Verdict/Report
+    news_state = {'BTC': {'label':'Neutral','reason':'init'},
+                  'ETH': {'label':'Neutral','reason':'init'},
+                  'MARKET': {'label':'Neutral','reason':'init'}}
+    recent_news_buffer: List[dict] = []
 
-    # Warmstart News
     try:
         headlines = get_latest_headlines(last_news_ts)
         if not headlines:
@@ -489,30 +481,38 @@ def main():
     except Exception as e:
         logger.exception(f"[INIT] News-Warmstart Fehler: {e}")
 
-    # Tägliche Diagnose/Report einplanen
+    # tägliche Diagnose/Report Zeit
     next_daily_diag_ts = _next_daily_ts_berlin()
 
     last_snapshot_ts = time.time()
-    tg_last_update_id = None
+    tg_last_update_id = None  # Wichtig: korrekt führen gegen Status-Spam
     loop_i = 0
 
     while True:
         try:
             loop_i += 1
 
-            # --- Telegram Commands (immer sofort antworten, NICHT gedrosselt) ---
-            updates, tg_last_update_id = telegram_get_updates(
+            # --- Telegram Commands: update_id korrekt verwalten ---
+            updates, _last = telegram_get_updates(
                 offset=(tg_last_update_id + 1) if isinstance(tg_last_update_id, int) else None,
                 timeout=0
             )
+
+            max_seen_update = tg_last_update_id
             if updates:
                 for u in updates:
+                    update_id = u.get("update_id")
+                    if isinstance(update_id, int):
+                        if (max_seen_update is None) or (update_id > max_seen_update):
+                            max_seen_update = update_id
+
                     msg = (u.get("message") or {})
                     text = (msg.get("text") or "").strip()
                     chat = msg.get("chat") or {}
                     chat_id = chat.get("id")
                     if str(chat_id) != str(TELEGRAM_CHAT_ID) or not text:
                         continue
+
                     cmd = text.split()[0].lower()
                     if cmd in ("/status", "status"):
                         base_tf = INTERVALS[0]
@@ -522,10 +522,10 @@ def main():
                             latest_prices[sym] = safe_midprice(df)
                         ta_signals = detect_ta_signal(pf.data)
                         reply = _build_status_message(latest_prices, news_state, ta_signals, tm)
-                        send_telegram(reply)  # commands: keine Drossel
+                        send_telegram(reply)  # commands antworten sofort (ohne Drossel)
                     elif cmd in ("/diagnose", "/diag", "diagnose"):
                         report = _diagnose_report(pf)
-                        send_telegram(report)  # commands: keine Drossel
+                        send_telegram(report)
                     elif cmd in ("/pause",):
                         tm.paused = True
                         send_telegram("⏸️ Bot pausiert – es werden keine neuen Alerts erzeugt.")
@@ -533,7 +533,11 @@ def main():
                         tm.paused = False
                         send_telegram("▶️ Bot wieder aktiv.")
 
-            # --- Täglicher LLM-Kurzbericht + Diagnose (nur 1×/Tag, Drossel irrelevant) ---
+            # ganz am Ende: letzte update_id fix setzen → verhindert Wiederholung
+            if isinstance(max_seen_update, int):
+                tg_last_update_id = max_seen_update
+
+            # --- tägliche Reports ---
             if time.time() >= next_daily_diag_ts:
                 if USE_DAILY_LLM_REPORT:
                     try:
@@ -545,18 +549,16 @@ def main():
                 run_full_diagnose_and_notify(pf, tag="daily")
                 next_daily_diag_ts = _next_daily_ts_berlin()
 
-            # --- Preise aktualisieren ---
+            # --- Preise & News ---
             pf.update()
             tm.mark_price_ok()
 
-            # Letzte Preise
             latest_prices: Dict[str, float] = {}
             base_tf = INTERVALS[0]
             for sym in ASSETS:
                 df = pf.get_latest(sym, base_tf)
                 latest_prices[sym] = safe_midprice(df)
 
-            # --- News Pull ---
             now = time.time()
             if now - last_news_pull >= NEWS_POLL_SECS:
                 headlines = get_latest_headlines(last_news_ts)
@@ -570,26 +572,20 @@ def main():
                     last_news_ts = max([i.get('published_ts', last_news_ts) for i in items] + [last_news_ts])
                     news_state = analyze_sentiment(items)
                     recent_news_buffer.extend(items)
-                    if len(recent_news_buffer) > 100:
-                        recent_news_buffer = recent_news_buffer[-100:]
+                    recent_news_buffer = recent_news_buffer[-100:]
                     tm.mark_news_ok()
                 else:
-                    last_news_ts -= 600  # 10 Minuten zurück
+                    last_news_ts -= 600  # 10min zurück als Fallback
                     logger.info("[NEWS] Keine neuen Items – Lookback vorsichtig um 10min erweitert.")
                 last_news_pull = now
 
-            # --- Zusatzdaten (Funding & Orderbook) ---
             funding = get_funding_rates(ASSETS) if USE_FUNDING else {}
             orderbook = get_orderbook_imbalance(ASSETS, depth=OB_DEPTH) if USE_ORDERBOOK else {}
-
-            # --- Higher TF Trend ---
             higher_trends = get_higher_trends(pf)
-
-            # --- TA (kurzer TF) ---
             ta_signals = detect_ta_signal(pf.data)
 
             # --- Entscheidung ---
-            from execution.trade_manager import TradeManager  # local import ok
+            from execution.trade_manager import TradeManager
             can_trade = {sym: tm.can_open(sym) for sym in ASSETS}
             decision = combine(
                 news_state, ta_signals, latest_prices, can_trade,
@@ -599,17 +595,14 @@ def main():
             # Debug
             debug_report(loop_i, news_state, ta_signals, latest_prices, decision)
 
-            # --- Beobachtungen (Nicht-Alerts → global gedrosselt) ---
+            # --- Beobachtungen (Nicht-Alerts → global 1x/h) ---
             obs = find_observations(news_state, ta_signals)
             if obs:
-                # Bettele mehrere Beobachtungen zu einer Nachricht zusammen, um nicht zu spammen
-                bundle = []
-                for sym, txt in obs.items():
-                    bundle.append(f"• {_esc(sym)}: {_esc(txt)}")
+                bundle = [f"• {_esc(sym)}: {_esc(txt)}" for sym, txt in obs.items()]
                 if bundle:
                     maybe_send_non_alert("👀 <b>Observation</b>\n" + "\n".join(bundle))
 
-            # --- Alert + LLM-Verdict (Alerts gehen immer sofort raus) ---
+            # --- Alerts (immer sofort), inkl. LLM-Verdict ---
             if decision:
                 verdict = llm_verdict_alert(
                     symbol=decision.symbol,
@@ -635,10 +628,7 @@ def main():
                 notify_alert(decision.symbol, decision.side, decision.entry, decision.tp, decision.sl, reason_out)
                 tm.add_open_trade(decision.symbol, decision.side, decision.entry, decision.tp, decision.sl)
 
-            # --- Exits prüfen ---
-            tm.check_open_trades(latest_prices)
-
-            # --- Stundensnapshot (optional, bleibt im Log; kein Telegram-Spam) ---
+            # --- Snapshot ins Log (kein Telegram-Spam) ---
             if ENABLE_HOURLY_SNAPSHOT and (time.time() - last_snapshot_ts >= SNAPSHOT_INTERVAL_MIN * 60):
                 asset_snapshot(pf, reason=f"every {SNAPSHOT_INTERVAL_MIN} min")
                 last_snapshot_ts = time.time()
